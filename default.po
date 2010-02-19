@@ -14,15 +14,15 @@ msgstr ""
 
 #: /_controller.php:135
 msgid "You may not call this route from the shell!"
-msgstr ""
+msgstr "このルートをシェルから呼ぶことは出来ません！"
 
 #: /_controller.php:140 /controllers/auth_controller.php:105
 msgid "Error"
-msgstr ""
+msgstr "エラー"
 
 #: /_controller.php:140
 msgid "This route is only accessible from the shell!"
-msgstr ""
+msgstr "このルートはシェルからアクセスされなければなりません！"
 
 #: /controllers/account_settings_controller.php:38
 msgid "Manage your account"
