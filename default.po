@@ -59,15 +59,15 @@ msgstr ""
 
 #: /controllers/accounts_controller.php:31
 msgid "Your accounts"
-msgstr ""
+msgstr "あなたのアカウント"
 
 #: /controllers/accounts_controller.php:33
 msgid "%s's accounts"
-msgstr ""
+msgstr "%s さんのアカウント"
 
 #: /controllers/accounts_controller.php:93
 msgid "Changes saved."
-msgstr ""
+msgstr "変更箇所が保存されました。"
 
 #: /controllers/accounts_controller.php:98
 msgid "No changes made."
@@ -80,7 +80,7 @@ msgstr ""
 # /controllers/accounts_controller.php:251;290;356
 #: /controllers/accounts_controller.php:251
 msgid "Account added."
-msgstr ""
+msgstr "アカウントが追加されました。"
 
 #: /controllers/accounts_controller.php:270
 msgid "Preview the data"
@@ -108,11 +108,11 @@ msgstr ""
 
 #: /controllers/contacts_controller.php:51
 msgid "My contacts"
-msgstr ""
+msgstr "マイコンタクト"
 
 #: /controllers/contacts_controller.php:53
 msgid "%s's contacts"
-msgstr ""
+msgstr "%s さんのコンタクト"
 
 # /controllers/contacts_controller.php:114;139
 #: /controllers/contacts_controller.php:114
@@ -262,7 +262,7 @@ msgstr ""
 
 #: /controllers/identities_controller.php:295
 msgid "Hi "
-msgstr ""
+msgstr "こんにちは "
 
 #: /controllers/identities_controller.php:296
 msgid "You got a message from "
@@ -270,11 +270,11 @@ msgstr ""
 
 #: /controllers/identities_controller.php:298
 msgid "Subject: "
-msgstr ""
+msgstr "題名: "
 
 #: /controllers/identities_controller.php:299
 msgid "Text:"
-msgstr ""
+msgstr "本文:"
 
 #: /controllers/identities_controller.php:301
 msgid "If you want to reply to this message, go to "
@@ -1664,7 +1664,7 @@ msgstr ""
 
 #: /views/identities/password_settings.ctp:48
 msgid "New password"
-msgstr ""
+msgstr "新しいパスワード"
 
 #: /views/identities/password_settings.ctp:49
 #: /views/registration/register.ctp:21
@@ -1688,16 +1688,16 @@ msgstr ""
 
 #: /views/identities/profile_settings.ctp:6
 msgid "Photo"
-msgstr ""
+msgstr "写真"
 
 # /views/identities/profile_settings.ctp:9;18
 #: /views/identities/profile_settings.ctp:9
 msgid "Your current photo"
-msgstr ""
+msgstr "現在の写真"
 
 #: /views/identities/profile_settings.ctp:21
 msgid "Remove photo"
-msgstr ""
+msgstr "写真を削除"
 
 #: /views/identities/profile_settings.ctp:25
 msgid ""
@@ -1707,7 +1707,7 @@ msgstr ""
 
 #: /views/identities/profile_settings.ctp:27
 msgid "Photo/Portrait"
-msgstr ""
+msgstr "写真"
 
 #: /views/identities/profile_settings.ctp:31
 msgid "load from Gravatar.com"
@@ -1715,19 +1715,19 @@ msgstr ""
 
 #: /views/identities/profile_settings.ctp:40
 msgid "Personal data"
-msgstr ""
+msgstr "個人情報"
 
 #: /views/identities/profile_settings.ctp:42
 msgid "Your firstname"
-msgstr ""
+msgstr "名"
 
 #: /views/identities/profile_settings.ctp:46
 msgid "Your lastname"
-msgstr ""
+msgstr "姓"
 
 #: /views/identities/profile_settings.ctp:49
 msgid "Sex"
-msgstr ""
+msgstr "性別"
 
 #: /views/identities/profile_settings.ctp:50
 msgid "rather not say"
@@ -1735,11 +1735,11 @@ msgstr ""
 
 #: /views/identities/profile_settings.ctp:51
 msgid "female"
-msgstr ""
+msgstr "女性"
 
 #: /views/identities/profile_settings.ctp:52
 msgid "male"
-msgstr ""
+msgstr "男性"
 
 #: /views/identities/profile_settings.ctp:56
 msgid "Make a statement"
@@ -1792,11 +1792,11 @@ msgstr ""
 
 #: /views/identities/send_message.ctp:9
 msgid "Subject"
-msgstr ""
+msgstr "題名"
 
 #: /views/identities/send_message.ctp:11
 msgid "Message"
-msgstr ""
+msgstr "メッセージ"
 
 #: /views/identities/social_stream.ctp:28
 msgid "Latest active"
@@ -1820,7 +1820,7 @@ msgstr ""
 
 #: /views/locations/add.ctp:4
 msgid "Add a new location"
-msgstr ""
+msgstr "場所を追加"
 
 #: /views/locations/add.ctp:7
 msgid ""
@@ -1838,11 +1838,11 @@ msgstr ""
 
 #: /views/locations/add.ctp:12
 msgid "Address"
-msgstr ""
+msgstr "住所"
 
 #: /views/locations/add.ctp:16
 msgid "Create Location"
-msgstr ""
+msgstr "場所を作成"
 
 #: /views/locations/index.ctp:6
 msgid ""
@@ -1854,7 +1854,7 @@ msgstr ""
 
 #: /views/locations/index.ctp:11
 msgid "Your locations"
-msgstr ""
+msgstr "現在位置"
 
 #: /views/locations/index.ctp:13
 msgid "Create a new Location"
@@ -1888,11 +1888,11 @@ msgstr ""
 
 #: /views/oauth/authorize.ctp:5 /views/omb/authorize_form.ctp:5
 msgid "allow"
-msgstr ""
+msgstr "許可する"
 
 #: /views/oauth/authorize.ctp:6 /views/omb/authorize_form.ctp:6
 msgid "deny"
-msgstr ""
+msgstr "許可しない"
 
 #: /views/oauth/no_token.ctp:1 /views/omb/no_token.ctp:1
 msgid "Error! No token specified."
@@ -1944,7 +1944,7 @@ msgstr ""
 
 #: /views/oauth_consumers/index.ctp:25
 msgid "Application name"
-msgstr ""
+msgstr "アプリケーション名"
 
 #: /views/oauth_consumers/index.ctp:26
 msgid "Callback url"
@@ -1979,19 +1979,19 @@ msgstr ""
 
 #: /views/openid_sites/index.ctp:8
 msgid "Site"
-msgstr ""
+msgstr "サイト"
 
 #: /views/openid_sites/index.ctp:9
 msgid "Email"
-msgstr ""
+msgstr "メールアドレス"
 
 #: /views/openid_sites/index.ctp:10
 msgid "Fullname"
-msgstr ""
+msgstr "フルネーム"
 
 #: /views/openid_sites/index.ctp:11
 msgid "Gender"
-msgstr ""
+msgstr "性別"
 
 #: /views/openid_sites/no_openid_sites.ctp:2
 msgid "No OpenID sites found."
@@ -2040,7 +2040,7 @@ msgstr ""
 
 #: /views/registration/register.ctp:2
 msgid "link"
-msgstr ""
+msgstr "リンク"
 
 #: /views/registration/register.ctp:10
 #: /views/registration/register_with_openid_step_2.ctp:6
@@ -2071,11 +2071,11 @@ msgstr ""
 
 #: /views/registration/register.ctp:20
 msgid "Password"
-msgstr ""
+msgstr "パスワード"
 
 #: /views/registration/register.ctp:25
 msgid "Password repeated"
-msgstr ""
+msgstr "パスワード（再入力）"
 
 #: /views/registration/register.ctp:32
 #: /views/registration/register_with_openid_step_2.ctp:16
@@ -2097,7 +2097,7 @@ msgstr ""
 # /views/registration/verify.ctp:3;7
 #: /views/registration/verify.ctp:3
 msgid "login"
-msgstr ""
+msgstr "ログイン"
 
 #: /views/registration/verify.ctp:7
 msgid ""
@@ -2162,12 +2162,12 @@ msgstr ""
 
 #: /views/syndications/index.ctp:16
 msgid "Your feeds"
-msgstr ""
+msgstr "あなたのフィード"
 
 # /views/syndications/index.ctp:18;50
 #: /views/syndications/index.ctp:18
 msgid "Create a new feed"
-msgstr ""
+msgstr "新しくフィードを作成"
 
 #: /views/syndications/index.ctp:22
 msgid "You did not create any feeds yet."
