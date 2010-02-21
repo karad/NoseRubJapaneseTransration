@@ -112,7 +112,7 @@ msgstr "マイコンタクト"
 
 #: /controllers/contacts_controller.php:53
 msgid "%s's contacts"
-msgstr "%s さんのコンタクト"
+msgstr "%s さんの連絡先"
 
 # /controllers/contacts_controller.php:114;139
 #: /controllers/contacts_controller.php:114
@@ -122,7 +122,7 @@ msgstr ""
 # /controllers/contacts_controller.php:135;156
 #: /controllers/contacts_controller.php:135
 msgid "New contact added."
-msgstr ""
+msgstr "新しい連絡先が追加されました。"
 
 #: /controllers/contacts_controller.php:175
 msgid "Add a contact to your social network"
@@ -134,11 +134,11 @@ msgstr ""
 
 #: /controllers/contacts_controller.php:215
 msgid "Removed the contact."
-msgstr ""
+msgstr "連絡先が削除されました。"
 
 #: /controllers/contacts_controller.php:379
 msgid "Contact updated."
-msgstr ""
+msgstr "連絡先を更新しました。"
 
 #: /controllers/contacts_controller.php:386
 msgid "Edit the contact details"
@@ -146,7 +146,7 @@ msgstr ""
 
 #: /controllers/contacts_controller.php:451
 msgid "Location updated."
-msgstr ""
+msgstr "地域を更新しました。"
 
 #: /controllers/contacts_controller.php:521
 msgid "Activities in %s's contact's social stream"
@@ -158,7 +158,7 @@ msgstr ""
 
 #: /controllers/contacts_controller.php:561
 msgid "Added new contact."
-msgstr ""
+msgstr "新しい連絡先が追加されました。"
 
 #: /controllers/entries_controller.php:23
 msgid "You need to be logged in to add a comment."
@@ -170,7 +170,7 @@ msgstr ""
 
 #: /controllers/entries_controller.php:27
 msgid "Comment added."
-msgstr ""
+msgstr "コメントが追加されました。"
 
 #: /controllers/entries_controller.php:65
 msgid "Edit your entry"
@@ -178,7 +178,7 @@ msgstr ""
 
 #: /controllers/entries_controller.php:67
 msgid "Permalink"
-msgstr ""
+msgstr "パーマリンク"
 
 # /controllers/entries_controller.php:81;90;97
 #: /controllers/entries_controller.php:81
@@ -233,7 +233,7 @@ msgstr ""
 
 #: /controllers/identities_controller.php:202
 msgid "Social Stream"
-msgstr ""
+msgstr "ソーシャル機能"
 
 #: /controllers/identities_controller.php:211
 msgid "All public social activities"
@@ -376,11 +376,11 @@ msgstr ""
 
 #: /controllers/locations_controller.php:115
 msgid "Edit Location"
-msgstr ""
+msgstr "地域を編集"
 
 #: /controllers/locations_controller.php:140
 msgid "Location deleted."
-msgstr ""
+msgstr "地域を削除しました。"
 
 #: /controllers/locations_controller.php:142
 msgid "Location could not be deleted."
@@ -500,7 +500,7 @@ msgstr ""
 
 #: /controllers/syndications_controller.php:112
 msgid "Settings saved"
-msgstr ""
+msgstr "設定が保存されました"
 
 #: /controllers/syndications_controller.php:114
 msgid "Something went wrong"
@@ -520,7 +520,7 @@ msgstr ""
 
 #: /controllers/syndications_controller.php:246
 msgid "Add new Feed"
-msgstr ""
+msgstr "新しいフィードを追加する"
 
 #: /controllers/syndications_controller.php:314
 msgid "none - no CDN defined in noserub.php"
@@ -550,7 +550,7 @@ msgstr ""
 
 #: /models/identity.php:857
 msgid "Thanks!"
-msgstr ""
+msgstr "ありがとう!"
 
 #: /models/identity.php:863
 msgid "Your %s registration"
@@ -558,27 +558,27 @@ msgstr ""
 
 #: /models/menu.php:79
 msgid "Overview"
-msgstr ""
+msgstr "概要"
 
 #: /models/menu.php:80
 msgid "Photos"
-msgstr ""
+msgstr "写真"
 
 #: /models/menu.php:81
 msgid "Videos"
-msgstr ""
+msgstr "ビデオ"
 
 #: /models/menu.php:82
 msgid "Audios"
-msgstr ""
+msgstr "オーディオ"
 
 #: /models/menu.php:83 /views/syndications/index.ctp:29
 msgid "Links"
-msgstr ""
+msgstr "リンク"
 
 #: /models/menu.php:84
 msgid "Texts"
-msgstr ""
+msgstr "テキスト"
 
 #: /models/menu.php:85
 msgid "Micropublish"
@@ -586,16 +586,16 @@ msgstr ""
 
 #: /models/menu.php:86
 msgid "Events"
-msgstr ""
+msgstr "イベント"
 
 #: /models/menu.php:87
 msgid "Documents"
-msgstr ""
+msgstr "書類"
 
 # /models/menu.php:88;151
 #: /models/menu.php:88
 msgid "Locations"
-msgstr ""
+msgstr "地域"
 
 #: /models/menu.php:89
 msgid "NoseRub"
@@ -603,23 +603,23 @@ msgstr ""
 
 #: /models/menu.php:149
 msgid "Profile"
-msgstr ""
+msgstr "プロフィール"
 
 #: /models/menu.php:150 /views/contacts/info.ctp:23
 msgid "Accounts"
-msgstr ""
+msgstr "アカウント"
 
 #: /models/menu.php:152
 msgid "Display"
-msgstr ""
+msgstr "表示"
 
 #: /models/menu.php:153
 msgid "Privacy"
-msgstr ""
+msgstr "プライバシー"
 
 #: /models/menu.php:154
 msgid "Feeds"
-msgstr ""
+msgstr "フィード"
 
 #: /models/menu.php:155
 msgid "OpenID"
@@ -643,7 +643,7 @@ msgstr ""
 
 #: /models/menu.php:165
 msgid "Manage"
-msgstr ""
+msgstr "管理"
 
 #: /models/menu.php:240
 msgid "With my Contacts"
@@ -651,31 +651,31 @@ msgstr ""
 
 #: /models/menu.php:262
 msgid "My Profile"
-msgstr ""
+msgstr "毎プロフィール"
 
 #: /models/menu.php:284
 msgid "My Favorites"
-msgstr ""
+msgstr "お気に入り"
 
 #: /models/menu.php:303 /views/registration/register.ctp:36
 #: /views/registration/register_with_openid_step_2.ctp:20
 msgid "Register"
-msgstr ""
+msgstr "登録"
 
 # /views/elements/metanav.ctp:18;20
 #: /models/menu.php:326 /views/admin/system_update.ctp:40
 #: /views/elements/metanav.ctp:18
 msgid "Settings"
-msgstr ""
+msgstr "設定"
 
 #: /models/menu.php:359
 msgid "All Users"
-msgstr ""
+msgstr "すべてのユーザー"
 
 # /views/elements/metanav.ctp:25;27;34;36
 #: /models/menu.php:378 /views/elements/metanav.ctp:25
 msgid "Search"
-msgstr ""
+msgstr "サーチ"
 
 #: /models/admin/configuration_checker.php:43
 msgid "obsolete! Please remove it from noserub.php"
@@ -806,7 +806,7 @@ msgstr ""
 
 #: /views/account_settings/index.ctp:26
 msgid "Import all data"
-msgstr ""
+msgstr "全てのデータをインポートする"
 
 #: /views/account_settings/index.ctp:34
 msgid "Leave a moving address"
@@ -821,7 +821,7 @@ msgstr ""
 
 #: /views/account_settings/index.ctp:40
 msgid "Redirect URL"
-msgstr ""
+msgstr "リダイレクト先"
 
 #: /views/account_settings/index.ctp:41
 msgid "Please add the full URL (http://)"
@@ -831,11 +831,11 @@ msgstr ""
 #: /views/contacts/define_contact_types.ctp:14 /views/contacts/edit.ctp:77
 #: /views/locations/add.ctp:18 /views/oauth_consumers/add.ctp:10
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 #: /views/account_settings/index.ctp:55
 msgid "Delete your account"
-msgstr ""
+msgstr "アカウントを削除する"
 
 #: /views/account_settings/index.ctp:57
 msgid ""
@@ -847,7 +847,7 @@ msgstr ""
 
 #: /views/account_settings/index.ctp:61
 msgid "Delete Account"
-msgstr ""
+msgstr "アカウントの削除"
 
 #: /views/account_settings/index.ctp:71
 msgid "Are you sure?"
@@ -855,7 +855,7 @@ msgstr ""
 
 #: /views/account_settings/index.ctp:72
 msgid "Yes, please delete my account."
-msgstr ""
+msgstr "はい、アカウントを削除してください"
 
 #: /views/account_settings/index.ctp:78
 msgid "Delete account"
@@ -881,15 +881,15 @@ msgstr ""
 #: /views/accounts/add_step_1.ctp:12 /views/accounts/index.ctp:18
 #: /views/elements/accounts/index.ctp:19
 msgid "Service"
-msgstr ""
+msgstr "サービス"
 
 #: /views/accounts/add_step_1.ctp:17
 msgid "Next step"
-msgstr ""
+msgstr "次のステップ"
 
 #: /views/accounts/add_step_2_preview.ctp:4
 msgid "Title"
-msgstr ""
+msgstr "題名"
 
 #: /views/accounts/add_step_2_preview.ctp:16 /views/accounts/edit.ctp:6
 msgid "Servicetype"
@@ -902,24 +902,24 @@ msgstr ""
 
 #: /views/accounts/add_step_2_preview.ctp:26
 msgid "Feed"
-msgstr ""
+msgstr "フィード"
 
 #: /views/accounts/add_step_2_preview.ctp:29
 msgid "Items"
-msgstr ""
+msgstr "アイテム"
 
 #: /views/accounts/add_step_2_preview.ctp:40
 msgid "OK. Save it!"
-msgstr ""
+msgstr "保存します"
 
 #: /views/accounts/add_step_2_preview.ctp:41
 msgid "Forget it"
-msgstr ""
+msgstr "忘れないようにしてください"
 
 #: /views/accounts/add_step_3_friends.ctp:7 /views/locations/add.ctp:11
 #: /views/locations/index.ctp:23 /views/syndications/index.ctp:28
 msgid "Name"
-msgstr ""
+msgstr "名前"
 
 #: /views/accounts/add_step_3_friends.ctp:9
 msgid "ignore"
@@ -935,11 +935,11 @@ msgstr ""
 
 #: /views/accounts/add_step_3_friends.ctp:23
 msgid "Add contacts"
-msgstr ""
+msgstr "連絡先を追加"
 
 #: /views/accounts/add_step_3_friends.ctp:24
 msgid "Skip adding friends"
-msgstr ""
+msgstr "友達に追加するのはスキップする"
 
 #: /views/accounts/edit.ctp:4
 msgid "Edit service details"
@@ -947,7 +947,7 @@ msgstr ""
 
 #: /views/accounts/edit.ctp:10
 msgid "Change"
-msgstr ""
+msgstr "変更"
 
 #: /views/accounts/index.ctp:3
 msgid ""
@@ -957,7 +957,7 @@ msgstr ""
 
 #: /views/accounts/index.ctp:19 /views/elements/accounts/index.ctp:18
 msgid "Username"
-msgstr ""
+msgstr "ユーザー名"
 
 # /views/accounts/index.ctp:48;77
 # /views/identities/password_settings.ctp:25;59
@@ -968,11 +968,11 @@ msgstr ""
 #: /views/identities/profile_settings.ctp:33 /views/openid_sites/index.ctp:26
 #: /views/syndications/index.ctp:66
 msgid "Save changes"
-msgstr ""
+msgstr "変更を保存"
 
 #: /views/accounts/index.ctp:56
 msgid "Posting to Twitter.com"
-msgstr ""
+msgstr "Twitter.comへ投稿"
 
 #: /views/accounts/index.ctp:58
 msgid ""
@@ -1007,12 +1007,12 @@ msgstr ""
 
 #: /views/admin/system_update.ctp:8
 msgid "Extension"
-msgstr ""
+msgstr "拡張機能"
 
 # /views/admin/system_update.ctp:11;27;43;78
 #: /views/admin/system_update.ctp:11
 msgid "Status"
-msgstr ""
+msgstr "ステータス"
 
 # /views/admin/system_update.ctp:11;27;43;60;78
 #: /views/admin/system_update.ctp:11
@@ -1041,12 +1041,12 @@ msgstr ""
 
 #: /views/admin/system_update.ctp:57
 msgid "Database"
-msgstr ""
+msgstr "データベース"
 
 # /views/admin/system_update.ctp:60;84
 #: /views/admin/system_update.ctp:60
 msgid "Configuration"
-msgstr ""
+msgstr "コンフィグ"
 
 #: /views/admin/system_update.ctp:62
 msgid "Actual version #"
@@ -1070,7 +1070,7 @@ msgstr ""
 
 #: /views/admin/system_update.ctp:96
 msgid "Errors!"
-msgstr ""
+msgstr "エラーです!"
 
 #: /views/admin/system_update.ctp:98
 msgid ""
@@ -1099,11 +1099,11 @@ msgstr ""
 
 #: /views/admin/system_update.ctp:117
 msgid "DB Version"
-msgstr ""
+msgstr "データベースのバージョン"
 
 #: /views/admin/system_update.ctp:121
 msgid "Send to NoseRub.com"
-msgstr ""
+msgstr "NoseRub.comへ送信"
 
 #: /views/auth/no_request.ctp:2
 msgid "No OpenID request detected in session."
@@ -1129,7 +1129,7 @@ msgstr ""
 
 #: /views/auth/trust.ctp:13
 msgid "this page"
-msgstr ""
+msgstr "このページ"
 
 #: /views/auth/trust.ctp:15
 msgid "It did not provide a link to the policy on data it collects."
@@ -1137,15 +1137,15 @@ msgstr ""
 
 #: /views/auth/trust.ctp:40
 msgid "Allow Forever"
-msgstr ""
+msgstr "これから先も許可する"
 
 #: /views/auth/trust.ctp:41
 msgid "Allow Once"
-msgstr ""
+msgstr "今回だけ許可"
 
 #: /views/auth/trust.ctp:42
 msgid "Deny"
-msgstr ""
+msgstr "許可しない"
 
 #: /views/contacts/add.ctp:2
 msgid ""
@@ -1183,11 +1183,11 @@ msgstr ""
 
 #: /views/contacts/add.ctp:20
 msgid "Add"
-msgstr ""
+msgstr "追加"
 
 #: /views/contacts/add.ctp:28
 msgid "Create a private contact"
-msgstr ""
+msgstr "プライベートな連絡先を作成"
 
 #: /views/contacts/add.ctp:33
 msgid ""
@@ -1206,7 +1206,7 @@ msgstr ""
 
 #: /views/contacts/add.ctp:37
 msgid "Create"
-msgstr ""
+msgstr "作成"
 
 #: /views/contacts/define_contact_types.ctp:8
 msgid "Your tags"
@@ -1214,12 +1214,12 @@ msgstr ""
 
 #: /views/contacts/define_contact_types.ctp:15
 msgid "Skip this step"
-msgstr ""
+msgstr "このステップをスキップ"
 
 #: /views/contacts/edit.ctp:16 /views/contacts/info.ctp:16
 #: /views/elements/contacts/list.ctp:56
 msgid "Send e-Mail"
-msgstr ""
+msgstr "メールを送信"
 
 #: /views/contacts/edit.ctp:23
 msgid "Define the relationship"
@@ -1233,7 +1233,7 @@ msgstr ""
 
 #: /views/contacts/edit.ctp:31
 msgid "Friendship"
-msgstr ""
+msgstr "交友関係"
 
 #: /views/contacts/edit.ctp:35
 msgid "Geographical"
@@ -1241,7 +1241,7 @@ msgstr ""
 
 #: /views/contacts/edit.ctp:39
 msgid "Familiy"
-msgstr ""
+msgstr "家族"
 
 #: /views/contacts/edit.ctp:43
 msgid "Physical"
@@ -1249,11 +1249,11 @@ msgstr ""
 
 #: /views/contacts/edit.ctp:47
 msgid "Tags"
-msgstr ""
+msgstr "タグ"
 
 #: /views/contacts/edit.ctp:69
 msgid "Add your own tags"
-msgstr ""
+msgstr "タグを登録"
 
 #: /views/contacts/edit.ctp:70
 msgid "separated by space"
@@ -1270,7 +1270,7 @@ msgstr ""
 # /views/contacts/index.ctp:14;30
 #: /views/contacts/index.ctp:14
 msgid "Add new contact"
-msgstr ""
+msgstr "新しい連絡先を追加"
 
 #: /views/contacts/index.ctp:18
 msgid "NoseRub Contacts"
@@ -1278,11 +1278,11 @@ msgstr ""
 
 #: /views/contacts/index.ctp:23
 msgid "Private Contacts"
-msgstr ""
+msgstr "プライベートな連絡先"
 
 #: /views/contacts/info.ctp:42
 msgid "Back to list of contacts"
-msgstr ""
+msgstr "連絡先一覧に戻る"
 
 #: /views/elements/hash_not_valid.ctp:1
 msgid "Admin-Hash invalid"
@@ -1300,64 +1300,64 @@ msgstr ""
 
 #: /views/elements/metanav.ctp:30
 msgid "Logout"
-msgstr ""
+msgstr "ログアウト"
 
 # /views/identities/login.ctp:23;36
 #: /views/elements/identities/openid_login_form.ctp:10
 #: /views/elements/metanav.ctp:39 /views/identities/login.ctp:23
 msgid "Login"
-msgstr ""
+msgstr "ログイン"
 
 #: /views/elements/accounts/index.ctp:12
 msgid "No accounts yet."
-msgstr ""
+msgstr "まだアカウントがありません"
 
 #: /views/elements/accounts/index.ctp:58
 msgid "Add new account"
-msgstr ""
+msgstr "アカウントを新規作成"
 
 # /views/identities/index.ctp:167;187;206
 #: /views/elements/contacts/box.ctp:2 /views/elements/locations/choose.ctp:4
 #: /views/identities/index.ctp:167
 msgid "manage"
-msgstr ""
+msgstr "管理"
 
 #: /views/elements/contacts/list.ctp:66
 msgid "Info"
-msgstr ""
+msgstr "情報"
 
 #: /views/elements/contacts/list.ctp:68
 msgid "Remove Contact"
-msgstr ""
+msgstr "連絡先を削除"
 
 #: /views/elements/contacts/list.ctp:69
 msgid "Edit Contact"
-msgstr ""
+msgstr "連絡先を編集"
 
 #: /views/elements/contacts/list.ctp:72
 msgid "Manage Services"
-msgstr ""
+msgstr "サービスの管理"
 
 #: /views/elements/contacts/list.ctp:73
 msgid "Add Service"
-msgstr ""
+msgstr "サービスの追加"
 
 #: /views/elements/contacts/tag_filter.ctp:4
 msgid "Filter"
-msgstr ""
+msgstr "フィルター"
 
 #: /views/elements/contacts/tag_filter.ctp:9
 msgid "Display contacts"
-msgstr ""
+msgstr "連絡先を表示"
 
 #: /views/elements/contacts/tag_filter.ctp:12
 msgid "All"
-msgstr ""
+msgstr "全て"
 
 #: /views/elements/contacts/tag_filter.ctp:25
 #: /views/elements/locations/choose.ctp:21
 msgid "Update"
-msgstr ""
+msgstr "更新"
 
 #: /views/elements/entries/favorited_by.ctp:3
 msgid "Favorited by %d users: "
@@ -1375,11 +1375,11 @@ msgstr ""
 
 #: /views/elements/identities/items.ctp:40
 msgid "Today"
-msgstr ""
+msgstr "今日"
 
 #: /views/elements/identities/items.ctp:42
 msgid "Yesterday"
-msgstr ""
+msgstr "昨日"
 
 #: /views/elements/identities/items.ctp:55
 msgid "From"
@@ -1419,15 +1419,15 @@ msgstr ""
 #: /views/elements/identities/privacy_settings.ctp:4
 #: /views/identities/index.ctp:169 /views/identities/social_stream.ctp:28
 msgid "Contacts"
-msgstr ""
+msgstr "連絡先"
 
 #: /views/elements/identities/privacy_settings.ctp:5
 msgid "Registered users"
-msgstr ""
+msgstr "登録ユーザ"
 
 #: /views/elements/identities/privacy_settings.ctp:9
 msgid "Updates"
-msgstr ""
+msgstr "更新"
 
 #: /views/elements/identities/privacy_settings.ctp:11
 msgid ""
@@ -1446,7 +1446,7 @@ msgstr ""
 
 #: /views/elements/identities/privacy_settings.ctp:19
 msgid "Communication"
-msgstr ""
+msgstr "コミュニケーション"
 
 #: /views/elements/identities/privacy_settings.ctp:20
 msgid "Which persons may send me e-Mails?"
@@ -1454,7 +1454,7 @@ msgstr ""
 
 #: /views/elements/identities/what_are_you_doing.ctp:1
 msgid "What are you doing?"
-msgstr ""
+msgstr "今なにしてる?"
 
 #: /views/elements/identities/what_are_you_doing.ctp:1
 msgid "chars left"
@@ -1463,7 +1463,7 @@ msgstr ""
 #: /views/elements/identities/what_are_you_doing.ctp:7
 #: /views/identities/send_message.ctp:14
 msgid "Send"
-msgstr ""
+msgstr "送信"
 
 #: /views/elements/locations/choose.ctp:6 /views/locations/index.ctp:25
 msgid "Location"
@@ -1483,7 +1483,7 @@ msgstr ""
 
 #: /views/entries/jobs_update.ctp:1
 msgid "Accounts refreshed"
-msgstr ""
+msgstr "アカウントが更新された"
 
 #: /views/entries/view.ctp:13
 msgid "Unmark Entry as favorite"
@@ -1495,7 +1495,7 @@ msgstr ""
 
 #: /views/entries/view.ctp:31
 msgid "Add comment"
-msgstr ""
+msgstr "コメントの追加"
 
 #: /views/helpers/nicesreg.php:47
 msgid "not supported by NoseRub"
@@ -1508,7 +1508,7 @@ msgstr ""
 
 #: /views/helpers/xfn.php:10
 msgid "contact"
-msgstr ""
+msgstr "連絡先"
 
 #: /views/helpers/xfn.php:11
 msgid "acquaintance"
@@ -1516,7 +1516,7 @@ msgstr ""
 
 #: /views/helpers/xfn.php:12
 msgid "friend"
-msgstr ""
+msgstr "友達"
 
 #: /views/helpers/xfn.php:18
 msgid "co-resident"
@@ -1528,11 +1528,11 @@ msgstr ""
 
 #: /views/helpers/xfn.php:25
 msgid "child"
-msgstr ""
+msgstr "子供"
 
 #: /views/helpers/xfn.php:26
 msgid "parent"
-msgstr ""
+msgstr "両親"
 
 #: /views/helpers/xfn.php:27
 msgid "sibling"
@@ -1580,7 +1580,7 @@ msgstr ""
 # /views/identities/index.ctp:126;143
 #: /views/identities/index.ctp:126
 msgid "edit"
-msgstr ""
+msgstr "編集"
 
 #: /views/identities/index.ctp:127
 msgid "Relationship"
@@ -1588,7 +1588,7 @@ msgstr ""
 
 #: /views/identities/index.ctp:144
 msgid "Notes"
-msgstr ""
+msgstr "ノート"
 
 #: /views/identities/index.ctp:147
 msgid "Add some notes here."
@@ -1605,15 +1605,15 @@ msgstr ""
 # /views/identities/index.ctp:200;225
 #: /views/identities/index.ctp:200
 msgid "Add new service"
-msgstr ""
+msgstr "新しくサービスを追加"
 
 #: /views/identities/index.ctp:208
 msgid "Contact"
-msgstr ""
+msgstr "連絡先"
 
 #: /views/identities/index.ctp:214
 msgid "E-Mail"
-msgstr ""
+msgstr "メール"
 
 #: /views/identities/jobs_sync_all.ctp:1
 msgid "Synced usernames"
@@ -1636,7 +1636,7 @@ msgstr ""
 
 #: /views/identities/password_settings.ctp:15
 msgid "API Settings"
-msgstr ""
+msgstr "APIの設定"
 
 #: /views/identities/password_settings.ctp:17
 msgid "For more information, please check out our API-Documentation: %s"
@@ -1652,15 +1652,15 @@ msgstr ""
 
 #: /views/identities/password_settings.ctp:35
 msgid "Change your password"
-msgstr ""
+msgstr "パスワードの変更"
 
 #: /views/identities/password_settings.ctp:43
 msgid "Old password"
-msgstr ""
+msgstr "古いパスワード"
 
 #: /views/identities/password_settings.ctp:44
 msgid "Password is not correct"
-msgstr ""
+msgstr "パスワードが違います"
 
 #: /views/identities/password_settings.ctp:48
 msgid "New password"
@@ -1804,15 +1804,15 @@ msgstr ""
 
 #: /views/identities/social_stream.ctp:31
 msgid "My Contacts"
-msgstr ""
+msgstr "連絡先"
 
 #: /views/identities/social_stream.ctp:35
 msgid "Newbies"
-msgstr ""
+msgstr "初心者"
 
 #: /views/layouts/default.ctp:3
 msgid "Welcome to %s"
-msgstr ""
+msgstr "%s さんようこそ"
 
 #: /views/layouts/default.ctp:33
 msgid "Social Stream Feed"
@@ -1854,11 +1854,11 @@ msgstr ""
 
 #: /views/locations/index.ctp:11
 msgid "Your locations"
-msgstr "現在位置"
+msgstr "あなたの地域"
 
 #: /views/locations/index.ctp:13
 msgid "Create a new Location"
-msgstr ""
+msgstr "新しい地域の作成"
 
 #: /views/locations/index.ctp:17
 msgid "You did not create any locations yet."
@@ -1866,7 +1866,7 @@ msgstr ""
 
 #: /views/locations/index.ctp:24
 msgid "Address (hidden)"
-msgstr ""
+msgstr "住所(非公開)"
 
 #: /views/locations/index.ctp:32
 msgid "Not entered"
@@ -1875,11 +1875,11 @@ msgstr ""
 #: /views/locations/index.ctp:39 /views/oauth_consumers/index.ctp:40
 #: /views/syndications/index.ctp:43
 msgid "Delete"
-msgstr ""
+msgstr "削除"
 
 #: /views/locations/index.ctp:40 /views/oauth_consumers/index.ctp:41
 msgid "Edit"
-msgstr ""
+msgstr "編集"
 
 #: /views/oauth/authorize.ctp:2
 msgid ""
@@ -1948,7 +1948,7 @@ msgstr "アプリケーション名"
 
 #: /views/oauth_consumers/index.ctp:26
 msgid "Callback url"
-msgstr ""
+msgstr "コールバックURL"
 
 #: /views/oauth_consumers/index.ctp:27
 msgid "Consumer key"
@@ -1968,7 +1968,7 @@ msgstr ""
 
 #: /views/omb_subscriptions/subscribe.ctp:4
 msgid "Subscribe"
-msgstr ""
+msgstr "購読"
 
 #: /views/openid_sites/index.ctp:2
 msgid ""
@@ -2150,7 +2150,7 @@ msgstr ""
 
 #: /views/syndications/add.ctp:74
 msgid "Create Feed"
-msgstr ""
+msgstr "フィードを作成"
 
 #: /views/syndications/index.ctp:11
 msgid ""
