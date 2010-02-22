@@ -88,7 +88,7 @@ msgstr ""
 
 #: /controllers/accounts_controller.php:460
 msgid "Could not find the user."
-msgstr ""
+msgstr "ユーザーが見つかりませんでした"
 
 #: /controllers/accounts_controller.php:467
 msgid "You may not delete this."
@@ -96,7 +96,7 @@ msgstr ""
 
 #: /controllers/accounts_controller.php:477
 msgid "Account deleted."
-msgstr ""
+msgstr "アカウントは削除されました。"
 
 #: /controllers/auth_controller.php:22
 msgid "OpenID server endpoint"
@@ -117,7 +117,7 @@ msgstr "%s さんの連絡先"
 # /controllers/contacts_controller.php:114;139
 #: /controllers/contacts_controller.php:114
 msgid "Could not add contact."
-msgstr ""
+msgstr "連絡先を追加できませんでした。"
 
 # /controllers/contacts_controller.php:135;156
 #: /controllers/contacts_controller.php:135
@@ -142,7 +142,7 @@ msgstr "連絡先を更新しました。"
 
 #: /controllers/contacts_controller.php:386
 msgid "Edit the contact details"
-msgstr ""
+msgstr "連絡先の詳細を編集する"
 
 #: /controllers/contacts_controller.php:451
 msgid "Location updated."
@@ -187,7 +187,7 @@ msgstr ""
 
 #: /controllers/entries_controller.php:101
 msgid "Entry deleted."
-msgstr ""
+msgstr "エントリーを削除しました。"
 
 #: /controllers/entries_controller.php:117
 msgid "You need to be logged in to perform this action!"
@@ -290,7 +290,7 @@ msgstr ""
 
 #: /controllers/identities_controller.php:388
 msgid "Changes have been saved."
-msgstr ""
+msgstr "変更が保存されました"
 
 #: /controllers/identities_controller.php:395
 msgid "My profile settings"
@@ -359,7 +359,7 @@ msgstr ""
 # /controllers/locations_controller.php:52;102
 #: /controllers/locations_controller.php:52
 msgid "Location added."
-msgstr ""
+msgstr "地域を追加しました。"
 
 # /controllers/locations_controller.php:56;104
 #: /controllers/locations_controller.php:56
@@ -368,7 +368,7 @@ msgstr ""
 
 #: /controllers/locations_controller.php:63
 msgid "Add new Location"
-msgstr ""
+msgstr "新しく地域を追加"
 
 #: /controllers/locations_controller.php:83
 msgid "Location could not be edited."
@@ -417,7 +417,7 @@ msgstr ""
 
 #: /controllers/oauth_consumers_controller.php:66
 msgid "Application updated."
-msgstr ""
+msgstr "アプリケーションが更新されました。"
 
 #: /controllers/oauth_consumers_controller.php:68
 msgid "Application could not be updated."
@@ -429,7 +429,7 @@ msgstr ""
 
 #: /controllers/oauth_consumers_controller.php:95
 msgid "Application deleted."
-msgstr ""
+msgstr "アプリケーションが削除されました。"
 
 #: /controllers/oauth_consumers_controller.php:97
 msgid "Application could not be deleted."
@@ -512,11 +512,11 @@ msgstr ""
 
 #: /controllers/syndications_controller.php:157
 msgid "Feed deleted."
-msgstr ""
+msgstr "フィードが削除されました。"
 
 #: /controllers/syndications_controller.php:209
 msgid "Feed added."
-msgstr ""
+msgstr "フィードが追加されました。"
 
 #: /controllers/syndications_controller.php:246
 msgid "Add new Feed"
