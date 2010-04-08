@@ -26,7 +26,7 @@ msgstr "このルートはシェルからアクセスされなければなりま
 
 #: /controllers/account_settings_controller.php:38
 msgid "Manage your account"
-msgstr ""
+msgstr "アカウントの管理"
 
 #: /controllers/account_settings_controller.php:59
 msgid "There was an error while uploading"
@@ -34,16 +34,16 @@ msgstr ""
 
 #: /controllers/account_settings_controller.php:66
 msgid "Importing NoseRub data"
-msgstr ""
+msgstr "NoseRubのデータをインポート中です"
 
 # /controllers/account_settings_controller.php:70;81
 #: /controllers/account_settings_controller.php:70
 msgid "Couldn't import the data!"
-msgstr ""
+msgstr "インポートできませんでした"
 
 #: /controllers/account_settings_controller.php:85
 msgid "Import completed"
-msgstr ""
+msgstr "インポートが完了しました"
 
 #: /controllers/account_settings_controller.php:87
 msgid "There was an error during import!"
@@ -51,7 +51,7 @@ msgstr ""
 
 #: /controllers/account_settings_controller.php:107
 msgid "Redirect URL saved."
-msgstr ""
+msgstr "リダイレクトURLが保存されました"
 
 #: /controllers/account_settings_controller.php:115
 msgid "In order to delete your account, please check the check box."
@@ -84,7 +84,7 @@ msgstr "アカウントが追加されました。"
 
 #: /controllers/accounts_controller.php:270
 msgid "Preview the data"
-msgstr ""
+msgstr "プレビューする"
 
 #: /controllers/accounts_controller.php:460
 msgid "Could not find the user."
@@ -126,11 +126,11 @@ msgstr "新しい連絡先が追加されました。"
 
 #: /controllers/contacts_controller.php:175
 msgid "Add a contact to your social network"
-msgstr ""
+msgstr "あなたのソーシャルネットワークを追加してください"
 
 #: /controllers/contacts_controller.php:177
 msgid "Add a contact to %s's social network"
-msgstr ""
+msgstr "%s のソーシャルネットワークを追加してください"
 
 #: /controllers/contacts_controller.php:215
 msgid "Removed the contact."
@@ -154,7 +154,7 @@ msgstr ""
 
 #: /controllers/contacts_controller.php:546 /views/contacts/add.ctp:17
 msgid "You cannot add yourself as a contact."
-msgstr ""
+msgstr "あなたの連絡先を加えることができませんでした"
 
 #: /controllers/contacts_controller.php:561
 msgid "Added new contact."
@@ -166,7 +166,7 @@ msgstr ""
 
 #: /controllers/entries_controller.php:25
 msgid "You forgot to write something."
-msgstr ""
+msgstr "なにか書くことを忘れてませんか?"
 
 #: /controllers/entries_controller.php:27
 msgid "Comment added."
@@ -174,7 +174,7 @@ msgstr "コメントが追加されました。"
 
 #: /controllers/entries_controller.php:65
 msgid "Edit your entry"
-msgstr ""
+msgstr "記事を編集してください"
 
 #: /controllers/entries_controller.php:67
 msgid "Permalink"
@@ -183,7 +183,7 @@ msgstr "パーマリンク"
 # /controllers/entries_controller.php:81;90;97
 #: /controllers/entries_controller.php:81
 msgid "You may not delete this entry!"
-msgstr ""
+msgstr "あなたはこのエントリを削除することができない！"
 
 #: /controllers/entries_controller.php:101
 msgid "Entry deleted."
@@ -225,11 +225,11 @@ msgstr ""
 
 #: /controllers/identities_controller.php:133
 msgid "My NoseRub Profile"
-msgstr ""
+msgstr "マイNoseRubプロフィール"
 
 #: /controllers/identities_controller.php:158
 msgid "Username could not be found!"
-msgstr ""
+msgstr "ユーザー名が見つかりませんでした"
 
 #: /controllers/identities_controller.php:202
 msgid "Social Stream"
@@ -294,7 +294,7 @@ msgstr "変更が保存されました"
 
 #: /controllers/identities_controller.php:395
 msgid "My profile settings"
-msgstr ""
+msgstr "プロフィールの設定"
 
 #: /controllers/identities_controller.php:427
 msgid "Display options have been saved."
@@ -302,23 +302,23 @@ msgstr ""
 
 #: /controllers/identities_controller.php:434
 msgid "Configure your display options"
-msgstr ""
+msgstr "表示オプションの設定"
 
 #: /controllers/identities_controller.php:463
 msgid "Privacy settings have been saved."
-msgstr ""
+msgstr "プライバシー設定が保存されました。"
 
 #: /controllers/identities_controller.php:470
 msgid "Your privacy settings"
-msgstr ""
+msgstr "プライバシーの設定"
 
 #: /controllers/identities_controller.php:501
 msgid "API options have been saved."
-msgstr ""
+msgstr "APIオプションが設定されました。"
 
 #: /controllers/identities_controller.php:509
 msgid "You need to specify a new password."
-msgstr ""
+msgstr "新しいパスワードが必要です。"
 
 #: /controllers/identities_controller.php:511
 msgid "The new password was not entered twice the same."
@@ -326,23 +326,23 @@ msgstr ""
 
 #: /controllers/identities_controller.php:517
 msgid "The new password has been saved."
-msgstr ""
+msgstr "新しいパスワードが保存されました。"
 
 #: /controllers/identities_controller.php:520
 msgid "The old password was not correct."
-msgstr ""
+msgstr "古いパスワードが違います"
 
 #: /controllers/identities_controller.php:526
 msgid "Password settings"
-msgstr ""
+msgstr "パスワード設定"
 
 #: /controllers/identities_controller.php:551
 msgid "Welcome! It's nice to have you back."
-msgstr ""
+msgstr "ようこそ! いらっしゃいました"
 
 #: /controllers/identities_controller.php:561
 msgid "Login not possible"
-msgstr ""
+msgstr "ログインができませんでした"
 
 #: /controllers/identities_controller.php:570
 msgid "Login with existing NoseRub account"
@@ -350,7 +350,7 @@ msgstr ""
 
 #: /controllers/identities_controller.php:609
 msgid "Account deleted"
-msgstr ""
+msgstr "アカウントが削除されました"
 
 #: /controllers/locations_controller.php:23
 msgid "Manage your locations"
