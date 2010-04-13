@@ -30,7 +30,7 @@ msgstr "アカウントの管理"
 
 #: /controllers/account_settings_controller.php:59
 msgid "There was an error while uploading"
-msgstr ""
+msgstr "アップロード中にエラーが発生しました"
 
 #: /controllers/account_settings_controller.php:66
 msgid "Importing NoseRub data"
@@ -47,7 +47,7 @@ msgstr "インポートが完了しました"
 
 #: /controllers/account_settings_controller.php:87
 msgid "There was an error during import!"
-msgstr ""
+msgstr "インポート中にエラーが発生しました"
 
 #: /controllers/account_settings_controller.php:107
 msgid "Redirect URL saved."
@@ -55,7 +55,7 @@ msgstr "リダイレクトURLが保存されました"
 
 #: /controllers/account_settings_controller.php:115
 msgid "In order to delete your account, please check the check box."
-msgstr ""
+msgstr "あなたのアカウントを削除するにはチェックボックスにチェックしてください。"
 
 #: /controllers/accounts_controller.php:31
 msgid "Your accounts"
@@ -71,11 +71,11 @@ msgstr "変更箇所が保存されました。"
 
 #: /controllers/accounts_controller.php:98
 msgid "No changes made."
-msgstr ""
+msgstr "変更がありませんでした"
 
 #: /controllers/accounts_controller.php:116
 msgid "You need to be logged in to add an account."
-msgstr ""
+msgstr "ログインするためにアカウントを作成してください"
 
 # /controllers/accounts_controller.php:251;290;356
 #: /controllers/accounts_controller.php:251
@@ -92,7 +92,7 @@ msgstr "ユーザーが見つかりませんでした"
 
 #: /controllers/accounts_controller.php:467
 msgid "You may not delete this."
-msgstr ""
+msgstr "あなたはこれを削除することはできません。"
 
 #: /controllers/accounts_controller.php:477
 msgid "Account deleted."
@@ -104,7 +104,7 @@ msgstr ""
 
 #: /controllers/auth_controller.php:219
 msgid "OpenID verification"
-msgstr ""
+msgstr "Open IDの認証"
 
 #: /controllers/contacts_controller.php:51
 msgid "My contacts"
@@ -162,7 +162,7 @@ msgstr "新しい連絡先が追加されました。"
 
 #: /controllers/entries_controller.php:23
 msgid "You need to be logged in to add a comment."
-msgstr ""
+msgstr "コメントするにはログインしてください"
 
 #: /controllers/entries_controller.php:25
 msgid "You forgot to write something."
@@ -199,11 +199,11 @@ msgstr ""
 
 #: /controllers/entries_controller.php:151
 msgid "Unmarked the entry."
-msgstr ""
+msgstr "このエントリーをマークから外す"
 
 #: /controllers/entries_controller.php:162
 msgid "Marked the entry."
-msgstr ""
+msgstr "このエントリーをマークする"
 
 #: /controllers/entries_controller.php:187
 #: /controllers/identities_controller.php:697
