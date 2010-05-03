@@ -470,7 +470,7 @@ msgstr ""
 
 #: /controllers/openid_sites_controller.php:8
 msgid "OpenID settings"
-msgstr ""
+msgstr "OpenIDの設定"
 
 #: /controllers/pages_controller.php:10
 msgid "There was a security problem"
@@ -478,15 +478,15 @@ msgstr ""
 
 #: /controllers/registration_controller.php:34
 msgid "Register a new NoseRub account"
-msgstr ""
+msgstr "NoseRubの新規追加"
 
 #: /controllers/registration_controller.php:38
 msgid "Register a new NoseRub account - Step 1/2"
-msgstr ""
+msgstr "NoseRubアカウントの新規追加 - ステップ 1/2"
 
 #: /controllers/registration_controller.php:80
 msgid "Register a new NoseRub account - Step 2/2"
-msgstr ""
+msgstr "NoseRubアカウントの新規追加 - ステップ 2/2"
 
 #: /controllers/registration_controller.php:105
 msgid "Thanks for your registration!"
@@ -494,7 +494,7 @@ msgstr ""
 
 #: /controllers/registration_controller.php:112
 msgid "Verify your e-mail address"
-msgstr ""
+msgstr "確認用のメールアドレス"
 
 #: /controllers/searches_controller.php:29
 msgid "Find public items..."
@@ -538,7 +538,7 @@ msgstr ""
 
 #: /models/identity.php:853
 msgid "Welcome to %s!"
-msgstr ""
+msgstr "ようこそ、%s さん"
 
 #: /models/identity.php:854
 msgid "Please click here to verify your email address"
@@ -600,7 +600,7 @@ msgstr "地域"
 
 #: /models/menu.php:89
 msgid "NoseRub"
-msgstr ""
+msgstr "NoseRub"
 
 #: /models/menu.php:149
 msgid "Profile"
@@ -625,11 +625,11 @@ msgstr "フィード"
 
 #: /models/menu.php:155
 msgid "OpenID"
-msgstr ""
+msgstr "OpenID"
 
 #: /models/menu.php:156
 msgid "OAuth"
-msgstr ""
+msgstr "OAuth"
 
 #: /models/menu.php:157
 msgid "OMB"
@@ -637,11 +637,11 @@ msgstr ""
 
 #: /models/menu.php:160
 msgid "Password & API"
-msgstr ""
+msgstr "パスワードとAPI"
 
 #: /models/menu.php:162
 msgid "API"
-msgstr ""
+msgstr "API"
 
 #: /models/menu.php:165
 msgid "Manage"
@@ -773,11 +773,11 @@ msgstr ""
 
 #: /views/account_settings/import.ctp:16
 msgid "Yes, import the data"
-msgstr ""
+msgstr "はい、このデータをインポートします"
 
 #: /views/account_settings/index.ctp:3
 msgid "Export your account data"
-msgstr ""
+msgstr "アカウントデータをエクスポートする"
 
 #: /views/account_settings/index.ctp:5
 msgid "Export all the information we have about you. That means all your profile information, your accounts and your contacts. You can use this data on another NoseRub installation to import your data."
@@ -785,11 +785,11 @@ msgstr ""
 
 #: /views/account_settings/index.ctp:8
 msgid "Export all my data"
-msgstr ""
+msgstr "あなたのすべてのデータをエクスポートする"
 
 #: /views/account_settings/index.ctp:13
 msgid "Import your account data"
-msgstr ""
+msgstr "アカウントデータをインポートする"
 
 #: /views/account_settings/index.ctp:15
 msgid "Import previously exported NoseRub data, so you have all your data from the old NoseRub ID on this one."
@@ -797,7 +797,7 @@ msgstr ""
 
 #: /views/account_settings/index.ctp:20
 msgid "Import NoseRub Data"
-msgstr ""
+msgstr "NoseRubのデータをインポートする"
 
 #: /views/account_settings/index.ctp:26
 msgid "Import all data"
@@ -817,7 +817,7 @@ msgstr "リダイレクト先"
 
 #: /views/account_settings/index.ctp:41
 msgid "Please add the full URL (http://)"
-msgstr ""
+msgstr "絶対URL (http://)を追加してください"
 
 #: /views/account_settings/index.ctp:47
 #: /views/contacts/define_contact_types.ctp:14
@@ -841,7 +841,7 @@ msgstr "アカウントの削除"
 
 #: /views/account_settings/index.ctp:71
 msgid "Are you sure?"
-msgstr ""
+msgstr "よろしいですか？"
 
 #: /views/account_settings/index.ctp:72
 msgid "Yes, please delete my account."
@@ -849,7 +849,7 @@ msgstr "はい、アカウントを削除してください"
 
 #: /views/account_settings/index.ctp:78
 msgid "Delete account"
-msgstr ""
+msgstr "アカウントの削除"
 
 #: /views/accounts/add_step_1.ctp:4
 msgid "Specify an url and let us try to auto discover"
@@ -891,7 +891,7 @@ msgstr ""
 #: /views/accounts/add_step_2_preview.ctp:22
 #: /views/admin/system_update.ctp:114
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: /views/accounts/add_step_2_preview.ctp:26
 msgid "Feed"
@@ -1007,7 +1007,7 @@ msgstr "ステータス"
 # /views/admin/system_update.ctp:11;27;43;60;78
 #: /views/admin/system_update.ctp:11
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: /views/admin/system_update.ctp:16
 msgid "Some extensions need to be fixed!"
@@ -1023,7 +1023,7 @@ msgstr ""
 
 #: /views/admin/system_update.ctp:36
 msgid "not writeable"
-msgstr ""
+msgstr "書き込み許可がありません"
 
 #: /views/admin/system_update.ctp:48
 msgid "Some constants need to be fixed!"
@@ -1068,7 +1068,7 @@ msgstr ""
 
 #: /views/admin/system_update.ctp:102
 msgid "Talk back to NoseRub.com"
-msgstr ""
+msgstr "NoseRub.comへ情報を送信する"
 
 #: /views/admin/system_update.ctp:104
 msgid ""
@@ -1143,7 +1143,7 @@ msgstr ""
 
 #: /views/contacts/add.ctp:12
 msgid "NoseRub-ID / URL"
-msgstr ""
+msgstr "NoseRub-ID / URL"
 
 #: /views/contacts/add.ctp:15
 msgid "This user could not be found at the other server"
@@ -1183,7 +1183,7 @@ msgstr "作成"
 
 #: /views/contacts/define_contact_types.ctp:8
 msgid "Your tags"
-msgstr ""
+msgstr "タグ"
 
 #: /views/contacts/define_contact_types.ctp:15
 msgid "Skip this step"
@@ -1237,7 +1237,7 @@ msgstr ""
 
 #: /views/contacts/index.ctp:7
 msgid "No contacts yet."
-msgstr ""
+msgstr "まだ連絡先はありません。"
 
 # /views/contacts/index.ctp:14;30
 #: /views/contacts/index.ctp:14
@@ -1353,7 +1353,7 @@ msgstr "昨日"
 
 #: /views/elements/identities/items.ctp:55
 msgid "From"
-msgstr ""
+msgstr "From"
 
 #: /views/elements/identities/openid_login_form.ctp:3
 msgid "Sign in with OpenID"
@@ -1720,7 +1720,7 @@ msgstr ""
 
 #: /views/identities/profile_settings.ctp:64
 msgid "Geolocation"
-msgstr ""
+msgstr "地理情報"
 
 #: /views/identities/profile_settings.ctp:66
 msgid "Address for geolocation (<strong>private</strong>)"
@@ -1920,11 +1920,11 @@ msgstr ""
 
 #: /views/omb/authorize_form.ctp:2
 msgid "Allow access?"
-msgstr ""
+msgstr "アクセスを許可しますか？"
 
 #: /views/omb_subscriptions/subscribe.ctp:3
 msgid "URL of your profile"
-msgstr ""
+msgstr "あなたのプロフィールのURL"
 
 #: /views/omb_subscriptions/subscribe.ctp:4
 msgid "Subscribe"
