@@ -267,7 +267,7 @@ msgstr "こんにちは "
 
 #: /controllers/identities_controller.php:296
 msgid "You got a message from "
-msgstr ""
+msgstr "メッセージが来ました:"
 
 #: /controllers/identities_controller.php:298
 msgid "Subject: "
