@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: NoseRub\n"
 "POT-Creation-Date: 2008-11-13 21:11+0100\n"
 "PO-Revision-Date: \n"
-"Last-Translator: kazuhiro hara <karad@fxb.jp>\n"
+"Last-Translator: kazuhiro hara <kazuhiroh@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -101,7 +101,7 @@ msgstr "アカウントは削除されました。"
 
 #: /controllers/auth_controller.php:22
 msgid "OpenID server endpoint"
-msgstr "OpenIDサーバの終点です。"
+msgstr ""
 
 #: /controllers/auth_controller.php:219
 msgid "OpenID verification"
@@ -151,7 +151,7 @@ msgstr "地域を更新しました。"
 
 #: /controllers/contacts_controller.php:521
 msgid "Activities in %s's contact's social stream"
-msgstr "接触したソーシャルストリームでの%s の活動。"
+msgstr ""
 
 #: /controllers/contacts_controller.php:546
 #: /views/contacts/add.ctp:17
@@ -193,11 +193,11 @@ msgstr "エントリーを削除しました。"
 
 #: /controllers/entries_controller.php:117
 msgid "You need to be logged in to perform this action!"
-msgstr "あなたは、この動作を実行するためにログインする必要があります!"
+msgstr ""
 
 #: /controllers/entries_controller.php:142
 msgid "This entry may not be marked!"
-msgstr "このエントリーはマークしていないかもしれません!"
+msgstr ""
 
 #: /controllers/entries_controller.php:151
 msgid "Unmarked the entry."
@@ -210,19 +210,19 @@ msgstr "このエントリーをマークする"
 #: /controllers/entries_controller.php:187
 #: /controllers/identities_controller.php:697
 msgid "Value for NOSERUB_CRON_HASH from noserub.php does not match or is empty!"
-msgstr "noserub.phpからNOSERUB_CRON_HASHへ送られた値は、合っていないか、または空です。"
+msgstr ""
 
 #: /controllers/entries_controller.php:198
 msgid "NOSERUB_MANUAL_FEEDS_UPDATE in noserub.php not set to do it manually!"
-msgstr "noserub.phpのNOSERUB_MANUAL_FEEDS_UPDATEは、手動で行うために値をセットしませんでした。"
+msgstr ""
 
 #: /controllers/entries_controller.php:227
 msgid "%d entries added/updated"
-msgstr "%d のエントリーを追加またはアップデートしました。"
+msgstr ""
 
 #: /controllers/identities_controller.php:34
 msgid "There is a redirect URL given!"
-msgstr "与えられたリダイレクトURLがあります!"
+msgstr ""
 
 #: /controllers/identities_controller.php:133
 msgid "My NoseRub Profile"
@@ -251,7 +251,7 @@ msgstr "メッセージ送信相手"
 # /controllers/identities_controller.php:264;271
 #: /controllers/identities_controller.php:264
 msgid "You may not send a message to "
-msgstr "あなたはメッセージを送ることができません"
+msgstr ""
 
 #: /controllers/identities_controller.php:278
 msgid "You need to specify a subject."
@@ -279,15 +279,15 @@ msgstr "本文:"
 
 #: /controllers/identities_controller.php:301
 msgid "If you want to reply to this message, go to "
-msgstr "あなたがこのメッセージに返答したいなら、許可"
+msgstr ""
 
 #: /controllers/identities_controller.php:306
 msgid "Your Message could not be delivered to "
-msgstr "あなたのメッセージは配送されませんでした"
+msgstr ""
 
 #: /controllers/identities_controller.php:309
 msgid "Your Message was sent to "
-msgstr "あなたのメッセージを送りました"
+msgstr ""
 
 #: /controllers/identities_controller.php:388
 msgid "Changes have been saved."
@@ -299,7 +299,7 @@ msgstr "プロフィールの設定"
 
 #: /controllers/identities_controller.php:427
 msgid "Display options have been saved."
-msgstr "表示オプションは保存されました。"
+msgstr ""
 
 #: /controllers/identities_controller.php:434
 msgid "Configure your display options"
@@ -323,7 +323,7 @@ msgstr "新しいパスワードが必要です。"
 
 #: /controllers/identities_controller.php:511
 msgid "The new password was not entered twice the same."
-msgstr "新しいパスワードは二回同じように入力されませんでした。"
+msgstr ""
 
 #: /controllers/identities_controller.php:517
 msgid "The new password has been saved."
@@ -347,7 +347,7 @@ msgstr "ログインができませんでした"
 
 #: /controllers/identities_controller.php:570
 msgid "Login with existing NoseRub account"
-msgstr "NoseRubのアカウントでログインしてください"
+msgstr ""
 
 #: /controllers/identities_controller.php:609
 msgid "Account deleted"
@@ -365,7 +365,7 @@ msgstr "地域を追加しました。"
 # /controllers/locations_controller.php:56;104
 #: /controllers/locations_controller.php:56
 msgid "Location could not be created."
-msgstr "地域を作成できませんでした。"
+msgstr ""
 
 #: /controllers/locations_controller.php:63
 msgid "Add new Location"
@@ -373,7 +373,7 @@ msgstr "新しく地域を追加"
 
 #: /controllers/locations_controller.php:83
 msgid "Location could not be edited."
-msgstr "地域を編集できませんでした。"
+msgstr ""
 
 #: /controllers/locations_controller.php:115
 msgid "Edit Location"
@@ -385,19 +385,19 @@ msgstr "地域を削除しました。"
 
 #: /controllers/locations_controller.php:142
 msgid "Location could not be deleted."
-msgstr "地域を削除できませんでした。"
+msgstr ""
 
 #: /controllers/locations_controller.php:193
 msgid "dataset not found"
-msgstr "データセットが見つかりません"
+msgstr ""
 
 #: /controllers/locations_controller.php:216
 msgid "parameter wrong"
-msgstr "パラメーターが間違っています"
+msgstr ""
 
 #: /controllers/locations_controller.php:225
 msgid "duplicate dataset"
-msgstr "データセットをコピーしてください"
+msgstr ""
 
 #: /controllers/oauth_consumers_controller.php:33
 msgid "Application registered."
@@ -414,7 +414,7 @@ msgstr "新しいアプリケーションの登録"
 
 #: /controllers/oauth_consumers_controller.php:58
 msgid "Application could not be edited."
-msgstr "アプリケーションを編集できませんでした。"
+msgstr ""
 
 #: /controllers/oauth_consumers_controller.php:66
 msgid "Application updated."
@@ -422,7 +422,7 @@ msgstr "アプリケーションが更新されました。"
 
 #: /controllers/oauth_consumers_controller.php:68
 msgid "Application could not be updated."
-msgstr "アプリケーションをアップデートできませんでした。"
+msgstr ""
 
 #: /controllers/oauth_consumers_controller.php:79
 msgid "Edit application"
@@ -434,39 +434,39 @@ msgstr "アプリケーションが削除されました。"
 
 #: /controllers/oauth_consumers_controller.php:97
 msgid "Application could not be deleted."
-msgstr "アプリケーションを削除できませんでした。"
+msgstr ""
 
 #: /controllers/oauth_controller.php:70
 #: /controllers/omb_controller.php:96
 msgid "Authorize access"
-msgstr "アクセスを認可"
+msgstr ""
 
 #: /controllers/omb_controller.php:54
 msgid "Invalid OMB version"
-msgstr "無効のOMBバージョン"
+msgstr ""
 
 # /controllers/omb_controller.php:64;135
 #: /controllers/omb_controller.php:64
 msgid "Missing parameter: "
-msgstr "無くなったパラメーター:"
+msgstr ""
 
 # /controllers/omb_controller.php:91;127
 #: /controllers/omb_controller.php:91
 #: /controllers/omb_subscriptions_controller.php:39
 msgid "Invalid request"
-msgstr "無効の要求"
+msgstr ""
 
 #: /controllers/omb_subscriptions_controller.php:34
 msgid "Successfully subscribed to "
-msgstr "うまく加入できました"
+msgstr ""
 
 #: /controllers/omb_subscriptions_controller.php:36
 msgid "Invalid omb version"
-msgstr "無効のOMBバージョン"
+msgstr ""
 
 #: /controllers/omb_subscriptions_controller.php:47
 msgid "Subscribe to "
-msgstr "加入する"
+msgstr ""
 
 #: /controllers/openid_sites_controller.php:8
 msgid "OpenID settings"
@@ -474,7 +474,7 @@ msgstr "OpenIDの設定"
 
 #: /controllers/pages_controller.php:10
 msgid "There was a security problem"
-msgstr "セキュリティ上の問題がありました"
+msgstr ""
 
 #: /controllers/registration_controller.php:34
 msgid "Register a new NoseRub account"
@@ -490,7 +490,7 @@ msgstr "NoseRubアカウントの新規追加 - ステップ 2/2"
 
 #: /controllers/registration_controller.php:105
 msgid "Thanks for your registration!"
-msgstr "登録ありがとうございます!"
+msgstr ""
 
 #: /controllers/registration_controller.php:112
 msgid "Verify your e-mail address"
@@ -498,7 +498,7 @@ msgstr "確認用のメールアドレス"
 
 #: /controllers/searches_controller.php:29
 msgid "Find public items..."
-msgstr "公共の項目を見つけます..."
+msgstr ""
 
 #: /controllers/syndications_controller.php:112
 msgid "Settings saved"
@@ -506,11 +506,11 @@ msgstr "設定が保存されました"
 
 #: /controllers/syndications_controller.php:114
 msgid "Something went wrong"
-msgstr "何かが支障をきたしました"
+msgstr ""
 
 #: /controllers/syndications_controller.php:134
 msgid "Configure Feeds from your activities and accounts"
-msgstr "活動しているアカウントからフィードを構成してください"
+msgstr ""
 
 #: /controllers/syndications_controller.php:157
 msgid "Feed deleted."
@@ -526,15 +526,15 @@ msgstr "新しいフィードを追加する"
 
 #: /controllers/syndications_controller.php:314
 msgid "none - no CDN defined in noserub.php"
-msgstr "なにもありません - CDNはnoserub.phpで定義されませんでした"
+msgstr ""
 
 #: /controllers/components/openid.php:81
 msgid "OpenID transaction in progress"
-msgstr "進行中のOpenID取引"
+msgstr ""
 
 #: /models/entry.php:444
 msgid "marked a new favorite: %s"
-msgstr "マークした新しいお気に入り: %s"
+msgstr ""
 
 #: /models/identity.php:853
 msgid "Welcome to %s!"
@@ -542,11 +542,11 @@ msgstr "ようこそ、%s さん"
 
 #: /models/identity.php:854
 msgid "Please click here to verify your email address"
-msgstr "ここをクリックして、Eメールアドレスについて確かめてください"
+msgstr ""
 
 #: /models/identity.php:856
 msgid "If you do not click on this link, the account will automatically be deleted after 14 days."
-msgstr "あなたがこのリンクをクリックしないと、アカウントは14日後に自動的に削除されるでしょう。"
+msgstr ""
 
 #: /models/identity.php:857
 msgid "Thanks!"
@@ -554,7 +554,7 @@ msgstr "ありがとう!"
 
 #: /models/identity.php:863
 msgid "Your %s registration"
-msgstr "あなたの %s を登録"
+msgstr ""
 
 #: /models/menu.php:79
 msgid "Overview"
@@ -583,7 +583,7 @@ msgstr "テキスト"
 
 #: /models/menu.php:85
 msgid "Micropublish"
-msgstr "マイクロパブリッシュ"
+msgstr ""
 
 #: /models/menu.php:86
 msgid "Events"
@@ -633,7 +633,7 @@ msgstr "OAuth"
 
 #: /models/menu.php:157
 msgid "OMB"
-msgstr "OMB"
+msgstr ""
 
 #: /models/menu.php:160
 msgid "Password & API"
@@ -649,11 +649,11 @@ msgstr "管理"
 
 #: /models/menu.php:240
 msgid "With my Contacts"
-msgstr "自身の連絡先と共に"
+msgstr ""
 
 #: /models/menu.php:262
 msgid "My Profile"
-msgstr "自身のプロフィール"
+msgstr "毎プロフィール"
 
 #: /models/menu.php:284
 msgid "My Favorites"
@@ -680,96 +680,96 @@ msgstr "すべてのユーザー"
 #: /models/menu.php:378
 #: /views/elements/metanav.ctp:25
 msgid "Search"
-msgstr "検索"
+msgstr "サーチ"
 
 #: /models/admin/configuration_checker.php:43
 msgid "obsolete! Please remove it from noserub.php"
-msgstr "もはや用いられていません! noserub.phpからそれを取り除いてください。"
+msgstr ""
 
 #: /models/admin/configuration_checker.php:54
 msgid "not defined! (see %s)"
-msgstr "(%s で)定義されていません!"
+msgstr ""
 
 #: /models/admin/configuration_checker.php:58
 msgid "value might only be: \"%s\" (see %s)"
-msgstr "値は以下の通りであるだけです: \"%s\" (%s によって)"
+msgstr ""
 
 #: /models/admin/configuration_checker.php:62
 msgid "no value! (see %s)"
-msgstr "(%s に)値がありません!"
+msgstr ""
 
 #: /models/admin/configuration_checker.php:70
 msgid "value must end with a slash! (see %s)"
-msgstr "(%s での)値はスラッシュで終わらなければなりません!"
+msgstr ""
 
 #: /models/admin/extensions_checker.php:9
 msgid "needed for communicating with other servers"
-msgstr "他のサーバと交信するのに必要です"
+msgstr ""
 
 #: /models/admin/extensions_checker.php:13
 msgid "needed for image handling"
-msgstr "画像の取り扱いに必要です"
+msgstr ""
 
 #: /models/admin/extensions_checker.php:17
 msgid "GMP or BCMath"
-msgstr "GMPかBCMath"
+msgstr ""
 
 #: /models/admin/extensions_checker.php:17
 msgid "needed for OpenID functionality"
-msgstr "OpenIDの機能性に必要です"
+msgstr ""
 
 #: /vendors/sex.php:41
 msgid "he/she"
-msgstr "彼/彼女"
+msgstr ""
 
 #: /vendors/sex.php:41
 msgid "she"
-msgstr "彼女"
+msgstr ""
 
 #: /vendors/sex.php:41
 msgid "he"
-msgstr "彼"
+msgstr ""
 
 #: /vendors/sex.php:53
 msgid "him/her"
-msgstr "彼を/彼女を"
+msgstr ""
 
 # /vendors/sex.php:53;65
 #: /vendors/sex.php:53
 msgid "her"
-msgstr "彼女を"
+msgstr ""
 
 #: /vendors/sex.php:53
 msgid "him"
-msgstr "彼を"
+msgstr ""
 
 #: /vendors/sex.php:65
 msgid "his/her"
-msgstr "彼の/彼女の"
+msgstr ""
 
 #: /vendors/sex.php:65
 msgid "his"
-msgstr "彼の"
+msgstr ""
 
 #: /views/account_settings/import.ctp:2
 msgid "When you proceed, a NoseRub export file from the server <strong>%s</strong> will be imported to the currently logged in user."
-msgstr "プロセスを続行すると、サーバ<strong>%s</strong>からのNoseRubエキスポートファイルは、現在登録されているユーザーのログにインポートされるでしょう。"
+msgstr ""
 
 #: /views/account_settings/import.ctp:5
 msgid "The export file was for the user <strong>%s</strong> and contains %d contacts, %d accounts and %d locations."
-msgstr "<strong>%s</strong>のためのエキスポートファイルは、%dの連絡先、%dのアカウント、および%dの地域を含んでいます。"
+msgstr ""
 
 #: /views/account_settings/import.ctp:8
 msgid "All the contacts and accounts you already have here, will not be overwritten."
-msgstr "あなたがここで持っているすべての連絡先とアカウントは、上書きされないでしょう。"
+msgstr ""
 
 #: /views/account_settings/import.ctp:11
 msgid "Are you sure to proceed?"
-msgstr "あなたは続けますか?"
+msgstr ""
 
 #: /views/account_settings/import.ctp:13
 msgid "No, take me back"
-msgstr "いいえ、私を戻してください"
+msgstr ""
 
 #: /views/account_settings/import.ctp:16
 msgid "Yes, import the data"
@@ -781,7 +781,7 @@ msgstr "アカウントデータをエクスポートする"
 
 #: /views/account_settings/index.ctp:5
 msgid "Export all the information we have about you. That means all your profile information, your accounts and your contacts. You can use this data on another NoseRub installation to import your data."
-msgstr "私たちがあなたに関して持っているすべての情報をエキスポートしてください。それはあなたのすべてのプロフィール情報、あなたのアカウント、およびあなたの連絡先を意味します。あなたは、あなたのデータをインポートする際、別のNoseRubインストールに関するこのデータを使用できます。"
+msgstr ""
 
 #: /views/account_settings/index.ctp:8
 msgid "Export all my data"
@@ -793,7 +793,7 @@ msgstr "アカウントデータをインポートする"
 
 #: /views/account_settings/index.ctp:15
 msgid "Import previously exported NoseRub data, so you have all your data from the old NoseRub ID on this one."
-msgstr "インポートの前にNoseRubデータをエキスポートしたので、あなたには、これの古いNoseRub IDからのあなたのすべてのデータがあります。"
+msgstr ""
 
 #: /views/account_settings/index.ctp:20
 msgid "Import NoseRub Data"
@@ -805,11 +805,11 @@ msgstr "全てのデータをインポートする"
 
 #: /views/account_settings/index.ctp:34
 msgid "Leave a moving address"
-msgstr "引越し先のアドレスに出てください"
+msgstr ""
 
 #: /views/account_settings/index.ctp:36
 msgid "If you no longer need this NoseRub ID, but want to make sure your new page can be accessed through this URL, just enter one.<br />Visitors will be redirected to that URL then."
-msgstr "もうこのNoseRub IDを必要としませんが、このURLを通してあなたの新しいページへのアクセスを確実にしたいなら、これを入力してください。<br />訪問者はその時、そのURLに向け直されるでしょう。"
+msgstr ""
 
 #: /views/account_settings/index.ctp:40
 msgid "Redirect URL"
@@ -833,7 +833,7 @@ msgstr "アカウントを削除する"
 
 #: /views/account_settings/index.ctp:57
 msgid "Once you deleted your account, you can not gain it back again.<br /><strong>Your current username will be blocked on this server in order to prevent fraud.</strong><br />Make sure you exported your data before and set a redirect URL (See above)."
-msgstr "一旦あなたのアカウントを削除すると、あなたは再びそれを獲得しなおす事ができません。<br /><strong>あなたの現在のユーザ名は、詐欺を防ぐためにこのサーバで妨げられるでしょう。</strong><br />以前データをエクスポートしたのを確実にしてください、そして、再直接のURLを設定してください(上方を見て)。"
+msgstr ""
 
 #: /views/account_settings/index.ctp:61
 msgid "Delete Account"
@@ -853,21 +853,21 @@ msgstr "アカウントの削除"
 
 #: /views/accounts/add_step_1.ctp:4
 msgid "Specify an url and let us try to auto discover"
-msgstr "URLを指定すると、自動的に見つけ出します"
+msgstr ""
 
 # /views/accounts/add_step_1.ctp:5;14
 #: /views/accounts/add_step_1.ctp:5
 msgid "Could not detect a service or a feed"
-msgstr "サービスやフィードを検出できませんでした"
+msgstr ""
 
 #: /views/accounts/add_step_1.ctp:8
 #: /views/contacts/add.ctp:24
 msgid "OR"
-msgstr "または"
+msgstr ""
 
 #: /views/accounts/add_step_1.ctp:11
 msgid "Specify service and account id"
-msgstr "指定サービスとアカウントID"
+msgstr ""
 
 #: /views/accounts/add_step_1.ctp:12
 #: /views/accounts/index.ctp:18
@@ -886,7 +886,7 @@ msgstr "題名"
 #: /views/accounts/add_step_2_preview.ctp:16
 #: /views/accounts/edit.ctp:6
 msgid "Servicetype"
-msgstr "サービスの種類"
+msgstr ""
 
 #: /views/accounts/add_step_2_preview.ctp:22
 #: /views/admin/system_update.ctp:114
@@ -918,15 +918,15 @@ msgstr "名前"
 
 #: /views/accounts/add_step_3_friends.ctp:9
 msgid "ignore"
-msgstr "無視する"
+msgstr ""
 
 #: /views/accounts/add_step_3_friends.ctp:10
 msgid "create as"
-msgstr "として作成"
+msgstr ""
 
 #: /views/accounts/add_step_3_friends.ctp:12
 msgid "assign to"
-msgstr "に割り当てる"
+msgstr ""
 
 #: /views/accounts/add_step_3_friends.ctp:23
 msgid "Add contacts"
@@ -938,7 +938,7 @@ msgstr "友達に追加するのはスキップする"
 
 #: /views/accounts/edit.ctp:4
 msgid "Edit service details"
-msgstr "サービスの詳細の編集"
+msgstr ""
 
 #: /views/accounts/edit.ctp:10
 msgid "Change"
@@ -946,7 +946,7 @@ msgstr "変更"
 
 #: /views/accounts/index.ctp:3
 msgid "Here you can add all your own social/online activities and import friends in your network."
-msgstr "ここでは、インポートした友達ネットワーク内の、すべての独自のソーシャル/オンライン活動を追加できます。"
+msgstr ""
 
 #: /views/accounts/index.ctp:19
 #: /views/elements/accounts/index.ctp:18
@@ -983,18 +983,10 @@ msgid ""
 "           and come to <a href=\"http://noserub.com/discuss/\">our discussion group</a> to\n"
 "           discuss this issue!"
 msgstr ""
-"ここではあなたのTwitterのユーザー名とパスワードためには、 \n"
-"以上のTwitterにメッセージをマイクロ出版を送信できるようにするのを聞いてきます。 \n"
-"これは悪いことです！ \n"
-"あなた自身のサーバー上のNoseRubをインストールした場合、これは悪くはない。 \n"
-"それ以外の場合、自分が明らかに、このサーバーの管理者は \n"
-"あなたのTwitterのログイン情報を見ることができますを確認します。 \n"
-"あなたの詳細については、これは悪い理由を知って、<a href=\"http://adactio.com/journal/1513/\">ジェレミーキース</a>、この記事を読んでください、 \n"
-"<a href=\"http://noserub.com/discuss/\">私たちのディスカッショングループ</a>に来てこの問題を議論する場合は！"
 
 #: /views/accounts/index.ctp:72
 msgid "Post my <em>what are you doing</em> entries to Twitter.com"
-msgstr "<em>あなたがやっている</em>Twitter.comへのエントリへの投稿"
+msgstr ""
 
 #: /views/admin/system_update.ctp:4
 msgid ""
@@ -1002,9 +994,6 @@ msgid ""
 "    check back after each update you install, because new constants may have\n"
 "    been introduced and/or changes in the database structure been made."
 msgstr ""
-"NoseRubインスタンスの現在の状態について。\n"
-"インストールして各更新の後に戻る場合は、新しい定数が導入されていたり、\n"
-"データベース構造の変更が行われた可能性がありますのでチェックしてください。"
 
 #: /views/admin/system_update.ctp:8
 msgid "Extension"
@@ -1022,15 +1011,15 @@ msgstr "OK"
 
 #: /views/admin/system_update.ctp:16
 msgid "Some extensions need to be fixed!"
-msgstr "いくつかの拡張機能が修正される必要があります！"
+msgstr ""
 
 #: /views/admin/system_update.ctp:24
 msgid "Directories"
-msgstr "ディレクトリ"
+msgstr ""
 
 #: /views/admin/system_update.ctp:32
 msgid "Some directories are not writeable!"
-msgstr "いくつかのディレクトリが書き込めません！"
+msgstr ""
 
 #: /views/admin/system_update.ctp:36
 msgid "not writeable"
@@ -1038,7 +1027,7 @@ msgstr "書き込み許可がありません"
 
 #: /views/admin/system_update.ctp:48
 msgid "Some constants need to be fixed!"
-msgstr "いくつかの定数は固定する必要があります！"
+msgstr ""
 
 #: /views/admin/system_update.ctp:57
 msgid "Database"
@@ -1051,23 +1040,23 @@ msgstr "コンフィグ"
 
 #: /views/admin/system_update.ctp:62
 msgid "Actual version #"
-msgstr "実際のバージョン #"
+msgstr ""
 
 #: /views/admin/system_update.ctp:64
 msgid "Updating to #"
-msgstr "#へのアップデート"
+msgstr ""
 
 #: /views/admin/system_update.ctp:74
 msgid "Database up-to-date!"
-msgstr "データベースを最新にアップデート！"
+msgstr ""
 
 #: /views/admin/system_update.ctp:87
 msgid "database.php in /app/config/ not found!"
-msgstr "/app/config/でdatabase.phpが見つかりません!"
+msgstr ""
 
 #: /views/admin/system_update.ctp:89
 msgid "Cannot connect to database!"
-msgstr "データベースに接続することができません！"
+msgstr ""
 
 #: /views/admin/system_update.ctp:96
 msgid "Errors!"
@@ -1075,7 +1064,7 @@ msgstr "エラーです!"
 
 #: /views/admin/system_update.ctp:98
 msgid "Please correct the errors above and then return to this URL, to finish the update."
-msgstr "このURLに戻り、上記のエラーを修正して、更新プログラムを終了してください。"
+msgstr ""
 
 #: /views/admin/system_update.ctp:102
 msgid "Talk back to NoseRub.com"
@@ -1087,13 +1076,10 @@ msgid ""
 "        knowledge about your installation here. The decision wether to click that button\n"
 "        or not is solely up to you."
 msgstr ""
-"NoseRub.comはあなたのインストールに関する知識を受け取るでしょう。\n"
-"そうしたいなら、あなたはただボタンをクリックすればいい。\n"
-"そのボタンをクリックするか否かはあなた次第です。"
 
 #: /views/admin/system_update.ctp:111
 msgid "We don't send any other data beside what you can verify here, once you click that button."
-msgstr "あなたがいったんそのボタンをクリックすると、私たちはあなたがここで確かめることができる事以外、いかなる他のデータも送りません。"
+msgstr ""
 
 #: /views/admin/system_update.ctp:117
 msgid "DB Version"
@@ -1105,23 +1091,23 @@ msgstr "NoseRub.comへ送信"
 
 #: /views/auth/no_request.ctp:2
 msgid "No OpenID request detected in session."
-msgstr "セッションの際にOpenIDの要求が検出されませんでした。"
+msgstr ""
 
 #: /views/auth/server_endpoint.ctp:2
 msgid "This is an OpenID server endpoint. For more information, see %s"
-msgstr "これはOpenIDサーバの終点です。 詳しくは、%sを見てください"
+msgstr ""
 
 #: /views/auth/trust.ctp:5
 msgid "A site identifying as <strong>%s</strong> has asked us for confirmation that <strong>%s</strong> is your identity URL."
-msgstr "<strong>%s</strong>として特定されるサイトは<strong>%s</strong>があなたのアイデンティティURLであるという確認を私たちに求めました。"
+msgstr ""
 
 #: /views/auth/trust.ctp:11
 msgid "%s also asked for additional information."
-msgstr "%sは、追加の情報を求めています。"
+msgstr ""
 
 #: /views/auth/trust.ctp:13
 msgid "It asked that you view %s about the policy on the data collected."
-msgstr "それは、集められたデータの方針に関して、あなたが%sを見るように頼みました。"
+msgstr ""
 
 #: /views/auth/trust.ctp:13
 msgid "this page"
@@ -1129,7 +1115,7 @@ msgstr "このページ"
 
 #: /views/auth/trust.ctp:15
 msgid "It did not provide a link to the policy on data it collects."
-msgstr "それは、それが集めるデータに関する方針へのリンクを提供しませんでした。"
+msgstr ""
 
 #: /views/auth/trust.ctp:40
 msgid "Allow Forever"
@@ -1145,15 +1131,15 @@ msgstr "許可しない"
 
 #: /views/contacts/add.ctp:2
 msgid "You can either enter an URL or a NoseRub-ID (<em>noserubserver.com/MyBuddy</em>) or just a new username, that then will created a private contact which is for your access only!"
-msgstr "あなたはURL、NoseRub-ID(<em>noserubserver.com/MyBuddy</em>)またはまったく新しいユーザ名を入力して、そのアクセスのためだけに当時のプライベートな連絡先を作成します!"
+msgstr ""
 
 #: /views/contacts/add.ctp:5
 msgid "Whenever you have an URL of someone, you should try that to add a new contact. Naturally you would want to add a contact's blog as an URL, or his/her FriendFeed-URL."
-msgstr "誰かのURLがいるときはいつも、あなたは、新しい連絡先を加えるためにそれを試みるべきです。当然、あなたはURL、またはその人のFriendFeed-URLとして、コンタクトしたブログを加えたがっているでしょう。"
+msgstr ""
 
 #: /views/contacts/add.ctp:9
 msgid "Add a contact with an URL or NoseRub-ID"
-msgstr "URLまたはNoseRub-IDを持つ連絡先を追加する"
+msgstr ""
 
 #: /views/contacts/add.ctp:12
 msgid "NoseRub-ID / URL"
@@ -1161,15 +1147,15 @@ msgstr "NoseRub-ID / URL"
 
 #: /views/contacts/add.ctp:15
 msgid "This user could not be found at the other server"
-msgstr "このユーザーは、他のサーバーで見つかりませんでした"
+msgstr ""
 
 #: /views/contacts/add.ctp:16
 msgid "This is no valid NoseRub-ID or URL!"
-msgstr "これは有効なNoseRub-ID、またはURLです!"
+msgstr ""
 
 #: /views/contacts/add.ctp:18
 msgid "This user has already been added as a contact."
-msgstr "このユーザーは既に連絡先として追加されました。"
+msgstr ""
 
 #: /views/contacts/add.ctp:20
 msgid "Add"
