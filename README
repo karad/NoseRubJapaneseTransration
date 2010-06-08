@@ -1,1 +1,40 @@
-er
+-------------------------------
+NoseRubの日本語化方法
+-------------------------------
+
+1.NoseRubを普通にインストール
+2.ダウンロードしたdefault.po、default.moを「NOSERUB_ROOT/app/locale/jpn/LC_MESSAGES」以下にコピー（ディレクトリがない部分は作成）
+3./app/config/bootstrap.phpの
+
+Configure::write('Languages', array(
+    'de-de' => 'Deutsch',
+    'en-en' => 'English',
+    'fr-fr' => 'Français',
+    #'es-es' => 'Español',
+    'ko-kr' => '한국어', # Korean
+    'nn'    => 'Norsk',
+    'fi'    => 'Suomi',
+    'sv'    => 'Svenska',
+    'tr'    => 'Turkish'
+));
+
+を
+
+Configure::write('Languages', array(
+    'de-de' => 'Deutsch',
+    'en-en' => 'English',
+    'fr-fr' => 'Français',
+    #'es-es' => 'Español',
+    'ko-kr' => '한국어', # Korean
+    'nn'    => 'Norsk',
+    'fi'    => 'Suomi',
+    'sv'    => 'Svenska',
+    'tr'    => 'Turkish',
+    'ja'    => 'Japanese'
+));
+
+に変更（日本語メニューの追加）
+
+以上で日本語化は完了します。
+
+

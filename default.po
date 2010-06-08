@@ -131,7 +131,7 @@ msgstr "あなたのソーシャルネットワークを追加してください
 
 #: /controllers/contacts_controller.php:177
 msgid "Add a contact to %s's social network"
-msgstr "%s のソーシャルネットワークを追加してください"
+msgstr "%s さんのソーシャルネットワークを追加してください"
 
 #: /controllers/contacts_controller.php:215
 msgid "Removed the contact."
@@ -151,7 +151,7 @@ msgstr "地域を更新しました。"
 
 #: /controllers/contacts_controller.php:521
 msgid "Activities in %s's contact's social stream"
-msgstr "接触したソーシャルストリームでの%s の活動。"
+msgstr "%s の活動"
 
 #: /controllers/contacts_controller.php:546
 #: /views/contacts/add.ctp:17
@@ -185,7 +185,7 @@ msgstr "パーマリンク"
 # /controllers/entries_controller.php:81;90;97
 #: /controllers/entries_controller.php:81
 msgid "You may not delete this entry!"
-msgstr "あなたはこのエントリを削除することができない！"
+msgstr "あなたはこのエントリを削除することができません！"
 
 #: /controllers/entries_controller.php:101
 msgid "Entry deleted."
@@ -226,7 +226,7 @@ msgstr "与えられたリダイレクトURLがあります!"
 
 #: /controllers/identities_controller.php:133
 msgid "My NoseRub Profile"
-msgstr "マイNoseRubプロフィール"
+msgstr "NoseRubでのプロフィール"
 
 #: /controllers/identities_controller.php:158
 msgid "Username could not be found!"
@@ -238,7 +238,7 @@ msgstr "ソーシャル機能"
 
 #: /controllers/identities_controller.php:211
 msgid "All public social activities"
-msgstr "すべての公開アクティビティ"
+msgstr "公開されている活動"
 
 #: /controllers/identities_controller.php:238
 msgid "%s's favorites"
@@ -279,7 +279,7 @@ msgstr "本文:"
 
 #: /controllers/identities_controller.php:301
 msgid "If you want to reply to this message, go to "
-msgstr "あなたがこのメッセージに返答したいなら、許可"
+msgstr "あなたがこのメッセージに返信する時は"
 
 #: /controllers/identities_controller.php:306
 msgid "Your Message could not be delivered to "
@@ -323,7 +323,7 @@ msgstr "新しいパスワードが必要です。"
 
 #: /controllers/identities_controller.php:511
 msgid "The new password was not entered twice the same."
-msgstr "新しいパスワードは二回同じように入力されませんでした。"
+msgstr "新しいパスワードは正確に二回入力されませんでした。"
 
 #: /controllers/identities_controller.php:517
 msgid "The new password has been saved."
@@ -339,7 +339,7 @@ msgstr "パスワード設定"
 
 #: /controllers/identities_controller.php:551
 msgid "Welcome! It's nice to have you back."
-msgstr "ようこそ! いらっしゃいました"
+msgstr "ようこそ! "
 
 #: /controllers/identities_controller.php:561
 msgid "Login not possible"
@@ -510,7 +510,7 @@ msgstr "何かが支障をきたしました"
 
 #: /controllers/syndications_controller.php:134
 msgid "Configure Feeds from your activities and accounts"
-msgstr "活動しているアカウントからフィードを構成してください"
+msgstr "活動しているアカウントからフィードを構成する"
 
 #: /controllers/syndications_controller.php:157
 msgid "Feed deleted."
@@ -542,11 +542,11 @@ msgstr "ようこそ、%s さん"
 
 #: /models/identity.php:854
 msgid "Please click here to verify your email address"
-msgstr "ここをクリックして、Eメールアドレスについて確かめてください"
+msgstr "ここをクリックして、Eメールアドレスを確認してください"
 
 #: /models/identity.php:856
 msgid "If you do not click on this link, the account will automatically be deleted after 14 days."
-msgstr "あなたがこのリンクをクリックしないと、アカウントは14日後に自動的に削除されるでしょう。"
+msgstr "あなたがこのリンクをクリックしないと、アカウントは14日後に自動的に削除されてしまいます。"
 
 #: /models/identity.php:857
 msgid "Thanks!"
@@ -558,7 +558,7 @@ msgstr "あなたの %s を登録"
 
 #: /models/menu.php:79
 msgid "Overview"
-msgstr "概要"
+msgstr "一覧"
 
 #: /models/menu.php:80
 msgid "Photos"
@@ -583,7 +583,7 @@ msgstr "テキスト"
 
 #: /models/menu.php:85
 msgid "Micropublish"
-msgstr "マイクロパブリッシュ"
+msgstr "つぶやき"
 
 #: /models/menu.php:86
 msgid "Events"
@@ -649,11 +649,11 @@ msgstr "管理"
 
 #: /models/menu.php:240
 msgid "With my Contacts"
-msgstr "自身の連絡先と共に"
+msgstr "あなたの連絡先"
 
 #: /models/menu.php:262
 msgid "My Profile"
-msgstr "自身のプロフィール"
+msgstr "プロフィール"
 
 #: /models/menu.php:284
 msgid "My Favorites"
@@ -720,36 +720,36 @@ msgstr "OpenIDの機能性に必要です"
 
 #: /vendors/sex.php:41
 msgid "he/she"
-msgstr "彼/彼女"
+msgstr "このユーザー"
 
 #: /vendors/sex.php:41
 msgid "she"
-msgstr "彼女"
+msgstr "このユーザー"
 
 #: /vendors/sex.php:41
 msgid "he"
-msgstr "彼"
+msgstr "このユーザー"
 
 #: /vendors/sex.php:53
 msgid "him/her"
-msgstr "彼を/彼女を"
+msgstr "このユーザー"
 
 # /vendors/sex.php:53;65
 #: /vendors/sex.php:53
 msgid "her"
-msgstr "彼女を"
+msgstr "このユーザー"
 
 #: /vendors/sex.php:53
 msgid "him"
-msgstr "彼を"
+msgstr "このユーザー"
 
 #: /vendors/sex.php:65
 msgid "his/her"
-msgstr "彼の/彼女の"
+msgstr "このユーザーの"
 
 #: /vendors/sex.php:65
 msgid "his"
-msgstr "彼の"
+msgstr "このユーザーの"
 
 #: /views/account_settings/import.ctp:2
 msgid "When you proceed, a NoseRub export file from the server <strong>%s</strong> will be imported to the currently logged in user."
@@ -833,7 +833,7 @@ msgstr "アカウントを削除する"
 
 #: /views/account_settings/index.ctp:57
 msgid "Once you deleted your account, you can not gain it back again.<br /><strong>Your current username will be blocked on this server in order to prevent fraud.</strong><br />Make sure you exported your data before and set a redirect URL (See above)."
-msgstr "一旦あなたのアカウントを削除すると、あなたは再びそれを獲得しなおす事ができません。<br /><strong>あなたの現在のユーザ名は、詐欺を防ぐためにこのサーバで妨げられるでしょう。</strong><br />以前データをエクスポートしたのを確実にしてください、そして、再直接のURLを設定してください(上方を見て)。"
+msgstr "一旦現在のアカウントを削除すると、再び同じものを獲得しなおす事ができません。<br /><strong>あなたの現在のユーザ名は、なりすましを防ぐためにこのサーバで弾かれます。</strong><br />以前のデータのエクスポートは確実に行ってください。そして、上の欄でリダイレクトのURLを設定してください。"
 
 #: /views/account_settings/index.ctp:61
 msgid "Delete Account"
@@ -903,11 +903,11 @@ msgstr "アイテム"
 
 #: /views/accounts/add_step_2_preview.ctp:40
 msgid "OK. Save it!"
-msgstr "保存します"
+msgstr "保存する"
 
 #: /views/accounts/add_step_2_preview.ctp:41
 msgid "Forget it"
-msgstr "忘れないようにしてください"
+msgstr "保存しない"
 
 #: /views/accounts/add_step_3_friends.ctp:7
 #: /views/locations/add.ctp:11
@@ -934,7 +934,7 @@ msgstr "連絡先を追加"
 
 #: /views/accounts/add_step_3_friends.ctp:24
 msgid "Skip adding friends"
-msgstr "友達に追加するのはスキップする"
+msgstr "友達に追加するのはやめる"
 
 #: /views/accounts/edit.ctp:4
 msgid "Edit service details"
@@ -946,7 +946,7 @@ msgstr "変更"
 
 #: /views/accounts/index.ctp:3
 msgid "Here you can add all your own social/online activities and import friends in your network."
-msgstr "ここでは、インポートした友達ネットワーク内の、すべての独自のソーシャル/オンライン活動を追加できます。"
+msgstr "ここでは、あなたが利用している様々なソーシャル/オンラインサービスを追加できます。"
 
 #: /views/accounts/index.ctp:19
 #: /views/elements/accounts/index.ctp:18
@@ -983,18 +983,18 @@ msgid ""
 "           and come to <a href=\"http://noserub.com/discuss/\">our discussion group</a> to\n"
 "           discuss this issue!"
 msgstr ""
-"ここではあなたのTwitterのユーザー名とパスワードためには、 \n"
-"以上のTwitterにメッセージをマイクロ出版を送信できるようにするのを聞いてきます。 \n"
-"これは悪いことです！ \n"
-"あなた自身のサーバー上のNoseRubをインストールした場合、これは悪くはない。 \n"
-"それ以外の場合、自分が明らかに、このサーバーの管理者は \n"
-"あなたのTwitterのログイン情報を見ることができますを確認します。 \n"
-"あなたの詳細については、これは悪い理由を知って、<a href=\"http://adactio.com/journal/1513/\">ジェレミーキース</a>、この記事を読んでください、 \n"
-"<a href=\"http://noserub.com/discuss/\">私たちのディスカッショングループ</a>に来てこの問題を議論する場合は！"
+"ここでは、あなたのTwitterのユーザー名とパスワードを使って、 \n"
+"あなたのTwitterにつぶやきを送信するかどうかを聞いてきます。 \n"
+"ですが、これはおすすめできません！ \n"
+"これを行うのは、あなた自身のサーバー上へNoseRubをインストールしてある場合のほうがいいです。 \n"
+"それ以外の場合だと、これを設置しているサーバーの管理者に \n"
+"あなたのTwitterのログイン情報を見られてしまうからです。 \n"
+"詳細については、このことを知った上で、<a href=\"http://adactio.com/journal/1513/\">ジェレミーキースのこの記事</a>、を読み、 \n"
+"<a href=\"http://noserub.com/discuss/\">私たちのディスカッショングループ</a>で議論できます！"
 
 #: /views/accounts/index.ctp:72
 msgid "Post my <em>what are you doing</em> entries to Twitter.com"
-msgstr "<em>あなたがやっている</em>Twitter.comへのエントリへの投稿"
+msgstr "<em>あなたの</em>Twitter.comへのエントリの投稿"
 
 #: /views/admin/system_update.ctp:4
 msgid ""
@@ -1087,13 +1087,13 @@ msgid ""
 "        knowledge about your installation here. The decision wether to click that button\n"
 "        or not is solely up to you."
 msgstr ""
-"NoseRub.comはあなたのインストールに関する知識を受け取るでしょう。\n"
+"NoseRub.comはあなたのインストールに関する情報を受け取るでしょう。\n"
 "そうしたいなら、あなたはただボタンをクリックすればいい。\n"
 "そのボタンをクリックするか否かはあなた次第です。"
 
 #: /views/admin/system_update.ctp:111
 msgid "We don't send any other data beside what you can verify here, once you click that button."
-msgstr "あなたがいったんそのボタンをクリックすると、私たちはあなたがここで確かめることができる事以外、いかなる他のデータも送りません。"
+msgstr "あなたがそのボタンをクリックすると、あなたが確認できるもの以外、私たちはいかなるデータも送りません。"
 
 #: /views/admin/system_update.ctp:117
 msgid "DB Version"
@@ -1181,15 +1181,15 @@ msgstr "プライベートな連絡先を作成"
 
 #: /views/contacts/add.ctp:33
 msgid "You need to enter something here. Valid characters: letters ,numbers, underscores, dashes, dots and \"@\""
-msgstr ""
+msgstr "あなたはここで何かを入力する必要があります。有効な文字：文字、数字、ダッシュ、ドットと\"@\""
 
 #: /views/contacts/add.ctp:34
 msgid "Valid characters: letters, numbers, underscores, dashes, dots and \"@\" only"
-msgstr ""
+msgstr "有効な文字：文字、数字、ダッシュ、ドットと\"@\"のみです"
 
 #: /views/contacts/add.ctp:35
 msgid "The username is alreay taken"
-msgstr ""
+msgstr "ユーザ名は既に使用されています"
 
 #: /views/contacts/add.ctp:37
 msgid "Create"
@@ -1211,11 +1211,11 @@ msgstr "メールを送信"
 
 #: /views/contacts/edit.ctp:23
 msgid "Define the relationship"
-msgstr ""
+msgstr "定義関係"
 
 #: /views/contacts/edit.ctp:26
 msgid "Click on a term to choose it and/or add a term to specify the relationship and group your contacts."
-msgstr ""
+msgstr "関係をクリックして選択する/または、あなたの連絡先のグループや関係を指定する用語を追加します。"
 
 #: /views/contacts/edit.ctp:31
 msgid "Friendship"
@@ -1223,7 +1223,7 @@ msgstr "交友関係"
 
 #: /views/contacts/edit.ctp:35
 msgid "Geographical"
-msgstr ""
+msgstr "地理的"
 
 #: /views/contacts/edit.ctp:39
 msgid "Familiy"
@@ -1231,7 +1231,7 @@ msgstr "家族"
 
 #: /views/contacts/edit.ctp:43
 msgid "Physical"
-msgstr ""
+msgstr "物理的"
 
 #: /views/contacts/edit.ctp:47
 msgid "Tags"
@@ -1243,11 +1243,11 @@ msgstr "タグを登録"
 
 #: /views/contacts/edit.ctp:70
 msgid "separated by space"
-msgstr ""
+msgstr "スペースで区切って"
 
 #: /views/contacts/edit.ctp:73
 msgid "Make some notes"
-msgstr ""
+msgstr "いくつかのノートを作る"
 
 #: /views/contacts/index.ctp:7
 msgid "No contacts yet."
@@ -1260,7 +1260,7 @@ msgstr "新しい連絡先を追加"
 
 #: /views/contacts/index.ctp:18
 msgid "NoseRub Contacts"
-msgstr ""
+msgstr "NoseRub連絡先"
 
 #: /views/contacts/index.ctp:23
 msgid "Private Contacts"
@@ -1272,15 +1272,15 @@ msgstr "連絡先一覧に戻る"
 
 #: /views/elements/hash_not_valid.ctp:1
 msgid "Admin-Hash invalid"
-msgstr ""
+msgstr "管理-ハッシュ無効"
 
 #: /views/elements/hash_not_valid.ctp:3
 msgid "In order to access these urls, you need to specify a valid <strong>NOSERUB_ADMIN_HASH</strong> in <em>noserub.php</em> and use it here."
-msgstr ""
+msgstr "次のURLにアクセスするには、<em>noserub.php</em>で有効な<strong>NOSERUB_ADMIN_HASH</strong>を指定し、それを使用する必要があります。"
 
 #: /views/elements/metanav.ctp:8
 msgid "You are logged in as <strong>%s</strong>"
-msgstr ""
+msgstr "あなたは<strong>%s</strong>としてログインしています"
 
 #: /views/elements/metanav.ctp:30
 msgid "Logout"
@@ -1347,15 +1347,15 @@ msgstr "更新"
 
 #: /views/elements/entries/favorited_by.ctp:3
 msgid "Favorited by %d users: "
-msgstr ""
+msgstr "%dのお気に入りユーザー:"
 
 #: /views/elements/identities/items.ctp:14
 msgid "There are no updates from your social network or own activity yet.<br />Why don't you add some friends or some more of your own accounts?"
-msgstr ""
+msgstr "あなたのソーシャルネットワークや独自の更新がまだありません。<br />なぜあなたは、友達または一部を自分のアカウントの詳細を追加しないのですか？"
 
 #: /views/elements/identities/items.ctp:30
 msgid "%d activities"
-msgstr ""
+msgstr "%d個の活動"
 
 #: /views/elements/identities/items.ctp:40
 msgid "Today"
@@ -1371,34 +1371,34 @@ msgstr "From"
 
 #: /views/elements/identities/openid_login_form.ctp:3
 msgid "Sign in with OpenID"
-msgstr ""
+msgstr "OpenIDと共にサインインしてください"
 
 #: /views/elements/identities/openid_login_form.ctp:4
 msgid "Your OpenID"
-msgstr ""
+msgstr "あなたのOpenID"
 
 #: /views/elements/identities/openid_login_form.ctp:6
 #: /views/identities/login.ctp:17
 msgid "Invalid OpenID"
-msgstr ""
+msgstr "無効のOpenID"
 
 #: /views/elements/identities/openid_login_form.ctp:7
 #: /views/identities/login.ctp:18
 msgid "Verification cancelled"
-msgstr ""
+msgstr "検証がキャンセルされました"
 
 #: /views/elements/identities/openid_login_form.ctp:8
 #: /views/identities/login.ctp:19
 msgid "OpenID authentication failed: %s"
-msgstr ""
+msgstr "OpenID認証に失敗しました: %s"
 
 #: /views/elements/identities/openid_login_form.ctp:9
 msgid "e.g. http://user123.myopenid.com/"
-msgstr ""
+msgstr "例えば http://user123.myopenid.com/"
 
 #: /views/elements/identities/privacy_settings.ctp:3
 msgid "No one"
-msgstr ""
+msgstr "すべて拒否"
 
 #: /views/elements/identities/privacy_settings.ctp:4
 #: /views/identities/index.ctp:169
@@ -1408,7 +1408,7 @@ msgstr "連絡先"
 
 #: /views/elements/identities/privacy_settings.ctp:5
 msgid "Registered users"
-msgstr "登録ユーザ"
+msgstr "登録ユーザー"
 
 #: /views/elements/identities/privacy_settings.ctp:9
 msgid "Updates"
@@ -1420,14 +1420,17 @@ msgid ""
 "        So, if you give us your permisson, we will show your updates\n"
 "        there for everyone."
 msgstr ""
+"我々は、ログインしていないユーザーに、中で何が起きているのかを表示したい。\n"
+"あなたが私たちにアクセス許可を与える場合、\n"
+"私たちは皆に、あなたのアップデート情報を表示します。"
 
 #: /views/elements/identities/privacy_settings.ctp:15
 msgid "show my updates on frontpage"
-msgstr ""
+msgstr "アップデートを公開する"
 
 #: /views/elements/identities/privacy_settings.ctp:16
 msgid "don't show them"
-msgstr ""
+msgstr "アップデートを公開しない"
 
 #: /views/elements/identities/privacy_settings.ctp:19
 msgid "Communication"
@@ -1435,7 +1438,7 @@ msgstr "コミュニケーション"
 
 #: /views/elements/identities/privacy_settings.ctp:20
 msgid "Which persons may send me e-Mails?"
-msgstr ""
+msgstr "どの人の電子メールを受け付けますか?"
 
 #: /views/elements/identities/what_are_you_doing.ctp:1
 msgid "What are you doing?"
@@ -1443,7 +1446,7 @@ msgstr "今なにしてる?"
 
 #: /views/elements/identities/what_are_you_doing.ctp:1
 msgid "chars left"
-msgstr ""
+msgstr "文字が残っています"
 
 #: /views/elements/identities/what_are_you_doing.ctp:7
 #: /views/identities/send_message.ctp:14
@@ -1453,19 +1456,19 @@ msgstr "送信"
 #: /views/elements/locations/choose.ctp:6
 #: /views/locations/index.ctp:25
 msgid "Location"
-msgstr ""
+msgstr "地域"
 
 #: /views/elements/locations/choose.ctp:11
 msgid "I'm currently at"
-msgstr ""
+msgstr "私は現在"
 
 #: /views/elements/locations/choose.ctp:17
 msgid "somewhere else"
-msgstr ""
+msgstr "その他"
 
 #: /views/elements/locations/choose.ctp:19
 msgid "Where are you then?"
-msgstr ""
+msgstr "あなたはどこにいますか?"
 
 #: /views/entries/jobs_update.ctp:1
 msgid "Accounts refreshed"
@@ -1473,11 +1476,11 @@ msgstr "アカウントが更新された"
 
 #: /views/entries/view.ctp:13
 msgid "Unmark Entry as favorite"
-msgstr ""
+msgstr "エントリをお気に入りから外す"
 
 #: /views/entries/view.ctp:13
 msgid "Mark Entry as favorite"
-msgstr ""
+msgstr "エントリをお気に入りにする"
 
 #: /views/entries/view.ctp:31
 msgid "Add comment"
@@ -1485,12 +1488,12 @@ msgstr "コメントの追加"
 
 #: /views/helpers/nicesreg.php:47
 msgid "not supported by NoseRub"
-msgstr ""
+msgstr "NoseRubをサポートしていません"
 
 # /views/helpers/xfn.php:9;17;24;34
 #: /views/helpers/xfn.php:9
 msgid "no selection"
-msgstr ""
+msgstr "選択しない"
 
 #: /views/helpers/xfn.php:10
 msgid "contact"
@@ -1498,7 +1501,7 @@ msgstr "連絡先"
 
 #: /views/helpers/xfn.php:11
 msgid "acquaintance"
-msgstr ""
+msgstr "知り合い"
 
 #: /views/helpers/xfn.php:12
 msgid "friend"
@@ -1506,11 +1509,11 @@ msgstr "友達"
 
 #: /views/helpers/xfn.php:18
 msgid "co-resident"
-msgstr ""
+msgstr "共存"
 
 #: /views/helpers/xfn.php:19
 msgid "neighbor"
-msgstr ""
+msgstr "隣人"
 
 #: /views/helpers/xfn.php:25
 msgid "child"
@@ -1522,43 +1525,43 @@ msgstr "両親"
 
 #: /views/helpers/xfn.php:27
 msgid "sibling"
-msgstr ""
+msgstr "兄弟"
 
 #: /views/helpers/xfn.php:28
 msgid "spouse"
-msgstr ""
+msgstr "配偶者"
 
 #: /views/helpers/xfn.php:29
 msgid "kin"
-msgstr ""
+msgstr "血縁"
 
 #: /views/helpers/xfn.php:35
 msgid "met"
-msgstr ""
+msgstr "会った人"
 
 #: /views/helpers/xfn.php:36
 msgid "want-to-meet"
-msgstr ""
+msgstr "会いたい人"
 
 #: /views/identities/account_deleted.ctp:2
 msgid "Your account and all information about it was successfully deleted."
-msgstr ""
+msgstr "お客様のアカウントとすべての情報が正常に削除されました。"
 
 #: /views/identities/account_deleted.ctp:5
 msgid "Thanks for using our service!"
-msgstr ""
+msgstr "当社のサービスをご利用いただき、ありがとうございます!"
 
 #: /views/identities/display_settings.ctp:6
 msgid "Filter, which should be shown, when selecting <em>Overview</em> as filter."
-msgstr ""
+msgstr "以下の中から選択したコンテンツが<em>一覧</em>に表示されます。"
 
 #: /views/identities/favorites.ctp:4
 msgid "Entries that %s marked as favorites."
-msgstr ""
+msgstr "エントリ %sは、お気に入りとしてマークします。"
 
 #: /views/identities/index.ctp:3
 msgid "Either this account does not exist, or it is only available for the user who created it."
-msgstr ""
+msgstr "このアカウントが存在しないか、作成したユーザーのみ利用可能です。"
 
 # /views/identities/index.ctp:126;143
 #: /views/identities/index.ctp:126
@@ -1567,7 +1570,7 @@ msgstr "編集"
 
 #: /views/identities/index.ctp:127
 msgid "Relationship"
-msgstr ""
+msgstr "関係"
 
 #: /views/identities/index.ctp:144
 msgid "Notes"
@@ -1575,20 +1578,20 @@ msgstr "ノート"
 
 #: /views/identities/index.ctp:147
 msgid "Add some notes here."
-msgstr ""
+msgstr "ここにいくつかのメモを追加します。"
 
 #: /views/identities/index.ctp:175
 msgid "Contact's Social Stream"
-msgstr ""
+msgstr "お問い合わせのソーシャルストリーム"
 
 #: /views/identities/index.ctp:182
 msgid "Mutual Contacts"
-msgstr ""
+msgstr "相互連絡"
 
 # /views/identities/index.ctp:200;225
 #: /views/identities/index.ctp:200
 msgid "Add new service"
-msgstr "新しくサービスを追加"
+msgstr "サービスを追加する"
 
 #: /views/identities/index.ctp:208
 msgid "Contact"
@@ -1600,20 +1603,20 @@ msgstr "メール"
 
 #: /views/identities/jobs_sync_all.ctp:1
 msgid "Synced usernames"
-msgstr ""
+msgstr "同期ユーザ名"
 
 #: /views/identities/login.ctp:14
 msgid "Your %s OpenID"
-msgstr ""
+msgstr "あなたの %s OpenID"
 
 # /views/identities/login.ctp:21;34
 #: /views/identities/login.ctp:21
 msgid "Remember me"
-msgstr ""
+msgstr "次回から入力しない"
 
 #: /views/identities/password_settings.ctp:4
 msgid "In order to change your password, you have to enter your current password and then the new one."
-msgstr ""
+msgstr "パスワードを変えるためには、まず現在のパスワードを入力し、次に新しいパスワードを入力してください。"
 
 #: /views/identities/password_settings.ctp:15
 msgid "API Settings"
@@ -1621,15 +1624,15 @@ msgstr "APIの設定"
 
 #: /views/identities/password_settings.ctp:17
 msgid "For more information, please check out our API-Documentation: %s"
-msgstr ""
+msgstr "詳細については、当社のAPIドキュメントを調べてください: %s"
 
 #: /views/identities/password_settings.ctp:23
 msgid "API activated"
-msgstr ""
+msgstr "動かされたAPI"
 
 #: /views/identities/password_settings.ctp:24
 msgid "API hash"
-msgstr ""
+msgstr "APIのハッシュ"
 
 #: /views/identities/password_settings.ctp:35
 msgid "Change your password"
@@ -1650,47 +1653,49 @@ msgstr "新しいパスワード"
 #: /views/identities/password_settings.ctp:49
 #: /views/registration/register.ctp:21
 msgid "Passwords must be at least 6 characters in length"
-msgstr ""
+msgstr "パスワードの長さ6文字以上にしなければいけません"
 
 #: /views/identities/password_settings.ctp:53
 msgid "New password repeated"
-msgstr ""
+msgstr "もう一度新しいパスワードを入力してください"
 
 #: /views/identities/password_settings.ctp:54
 #: /views/registration/register.ctp:26
 msgid "Passwords must match"
-msgstr ""
+msgstr "パスワードは一致しないといけせん"
 
 #: /views/identities/privacy_settings.ctp:11
 msgid ""
 "If you would like to discuss what and how to save from public\n"
 "    viewing, please join us at %s."
 msgstr ""
+"あなたが一般公開から保存する方法について議論したいのであれば、\n"
+"%s にご参加ください。"
 
 #: /views/identities/profile_settings.ctp:6
 msgid "Photo"
-msgstr "写真"
+msgstr "画像"
 
 # /views/identities/profile_settings.ctp:9;18
 #: /views/identities/profile_settings.ctp:9
 msgid "Your current photo"
-msgstr "現在の写真"
+msgstr "現在の画像"
 
 #: /views/identities/profile_settings.ctp:21
 msgid "Remove photo"
-msgstr "写真を削除"
+msgstr "画像を削除"
 
 #: /views/identities/profile_settings.ctp:25
 msgid "Size may not exceed 150x150 pixels. If you don't have one with the right size, try %s.<br />GIF, JPG and PNG allowed."
-msgstr ""
+msgstr "サイズは150×150ピクセルに縮小されます。画像を修正する場合は%sなどを利用してください。使用できる画像形式はJPGとPNGとGIFです。"
 
 #: /views/identities/profile_settings.ctp:27
 msgid "Photo/Portrait"
-msgstr "写真"
+msgstr "画像"
 
 #: /views/identities/profile_settings.ctp:31
 msgid "load from Gravatar.com"
-msgstr ""
+msgstr "Gravatar.comからロードしてください"
 
 #: /views/identities/profile_settings.ctp:40
 msgid "Personal data"
@@ -1710,7 +1715,7 @@ msgstr "性別"
 
 #: /views/identities/profile_settings.ctp:50
 msgid "rather not say"
-msgstr ""
+msgstr "ノーコメント"
 
 #: /views/identities/profile_settings.ctp:51
 msgid "female"
@@ -1722,15 +1727,15 @@ msgstr "男性"
 
 #: /views/identities/profile_settings.ctp:56
 msgid "Make a statement"
-msgstr ""
+msgstr "自己紹介コメント"
 
 #: /views/identities/profile_settings.ctp:58
 msgid "HTML is not allowed; newlines are preserved; URLs with http:// and https:// will turn into links"
-msgstr ""
+msgstr "HTMLは無効です。改行は保持されます。 URLにhttp:// や https://をつけると、自動的にリンクになります"
 
 #: /views/identities/profile_settings.ctp:60
 msgid "About"
-msgstr ""
+msgstr "詳細"
 
 #: /views/identities/profile_settings.ctp:64
 msgid "Geolocation"
@@ -1738,31 +1743,33 @@ msgstr "地理情報"
 
 #: /views/identities/profile_settings.ctp:66
 msgid "Address for geolocation (<strong>private</strong>)"
-msgstr ""
+msgstr "住所の地理情報（<strong>プライベート</strong>）"
 
 #: /views/identities/profile_settings.ctp:71
 #: /views/locations/index.ctp:34
 msgid "Latitude"
-msgstr ""
+msgstr "緯度"
 
 #: /views/identities/profile_settings.ctp:72
 #: /views/locations/index.ctp:35
 msgid "Longitude"
-msgstr ""
+msgstr "経度"
 
 #: /views/identities/profile_settings.ctp:76
 msgid "The address is used to determine the geolocation. This address will <strong>not</strong> be displayed to anyone else, just the geolocation, if you enter a valid address."
-msgstr ""
+msgstr "この住所は地理情報を決定めるために使用されます。あなたが自分の住所を入力しても、あなた以外の誰へも地理情報を<strong>表示しません</strong>。"
 
 #: /views/identities/profile_settings.ctp:80
 msgid "Address for your profile (<strong>public</strong>)"
-msgstr ""
+msgstr "プロフィールのアドレス(<strong>公開</strong>)"
 
 #: /views/identities/profile_settings.ctp:84
 msgid ""
 "Here you can specify, how you would like your address to be displayed. For instance: <strong>Paris, France</strong><br />\n"
 "            If you leave it empty, nothing will be shown on your profile page."
 msgstr ""
+"ここでは、アドレスがどのように表示されるかをご希望指定できます。例えば: <strong>Tokyo, Japan</strong><br />\n"
+"空のままにすると、あなたのプロフィールページには何も表示されません。"
 
 #: /views/identities/send_message.ctp:9
 msgid "Subject"
@@ -1774,15 +1781,15 @@ msgstr "メッセージ"
 
 #: /views/identities/social_stream.ctp:28
 msgid "Latest active"
-msgstr ""
+msgstr "最新のアクティブ"
 
 #: /views/identities/social_stream.ctp:31
 msgid "My Contacts"
-msgstr "連絡先"
+msgstr "登録したユーザー"
 
 #: /views/identities/social_stream.ctp:35
 msgid "Newbies"
-msgstr "初心者"
+msgstr "新たに参加したユーザー"
 
 #: /views/layouts/default.ctp:3
 msgid "Welcome to %s"
@@ -1790,7 +1797,7 @@ msgstr "%s さんようこそ"
 
 #: /views/layouts/default.ctp:33
 msgid "Social Stream Feed"
-msgstr ""
+msgstr "ソーシャルストリームのフィード"
 
 #: /views/locations/add.ctp:4
 msgid "Add a new location"
@@ -1802,10 +1809,13 @@ msgid ""
 "            The address is only used to geocode the location and will not be displayed.<br />\n"
 "            You can mostly just use <em>Town, Country</em> to specify an address."
 msgstr ""
+"現在の位置を選択すると、あなたの名前が表示されます。<br />\n"
+"住所はジオコードの位置情報に利用されるだけで、表示されません。<br />\n"
+"大まかな住所だけを指定する<em>町、国</em>を使用することができます。"
 
 #: /views/locations/add.ctp:11
 msgid "You need to specify a name."
-msgstr ""
+msgstr "あなたの名前を指定する必要があります。"
 
 #: /views/locations/add.ctp:12
 msgid "Address"
@@ -1821,6 +1831,9 @@ msgid ""
 "    will be able to set this location on your profile page to tell, where you \n"
 "    currently are."
 msgstr ""
+"あなたのプロフィールページの地域情報に対応して、\n"
+"<em>ホーム</em>や<em>オフィス</em>のようないくつかの位置を追加しました。\n"
+"ここが現在あなたがいる場所です。"
 
 #: /views/locations/index.ctp:11
 msgid "Your locations"
@@ -1832,7 +1845,7 @@ msgstr "新しい地域の作成"
 
 #: /views/locations/index.ctp:17
 msgid "You did not create any locations yet."
-msgstr ""
+msgstr "あなたはまだ地域を作成していません。"
 
 #: /views/locations/index.ctp:24
 msgid "Address (hidden)"
@@ -1840,7 +1853,7 @@ msgstr "住所(非公開)"
 
 #: /views/locations/index.ctp:32
 msgid "Not entered"
-msgstr ""
+msgstr "入力していません"
 
 #: /views/locations/index.ctp:39
 #: /views/oauth_consumers/index.ctp:40
@@ -1855,7 +1868,7 @@ msgstr "編集"
 
 #: /views/oauth/authorize.ctp:2
 msgid "Application <strong>%s</strong> asked for permission to access your data"
-msgstr ""
+msgstr "あなたのデータにアクセスする許可が求められたアプリケーション<strong> %s</strong>"
 
 #: /views/oauth/authorize.ctp:5
 #: /views/omb/authorize_form.ctp:5
@@ -1870,51 +1883,51 @@ msgstr "許可しない"
 #: /views/oauth/no_token.ctp:1
 #: /views/omb/no_token.ctp:1
 msgid "Error! No token specified."
-msgstr ""
+msgstr "エラー！トークンが指定されていません。"
 
 #: /views/oauth_consumers/add.ctp:4
 msgid "Register your application"
-msgstr ""
+msgstr "アプリケーションを登録してください"
 
 #: /views/oauth_consumers/add.ctp:8
 msgid "You need to specify an application name."
-msgstr ""
+msgstr "あなたは、アプリケーション名を指定する必要があります。"
 
 #: /views/oauth_consumers/add.ctp:9
 msgid "Callback Url (optional)"
-msgstr ""
+msgstr "コールバックURL（オプション）"
 
 #: /views/oauth_consumers/add.ctp:9
 msgid "You need to specify a valid url"
-msgstr ""
+msgstr "あなたは、有効なURLを指定する必要があります"
 
 #: /views/oauth_consumers/index.ctp:5
 msgid "OAuth parameters"
-msgstr ""
+msgstr "OAuthのパラメータ"
 
 #: /views/oauth_consumers/index.ctp:7
 msgid "Request Token URL"
-msgstr ""
+msgstr "請求トークンのURL"
 
 #: /views/oauth_consumers/index.ctp:8
 msgid "User Authorization URL"
-msgstr ""
+msgstr "ユーザー認証のURL"
 
 #: /views/oauth_consumers/index.ctp:9
 msgid "Access Token URL"
-msgstr ""
+msgstr "アクセストークンのURL"
 
 #: /views/oauth_consumers/index.ctp:10
 msgid "Signature method"
-msgstr ""
+msgstr "署名法"
 
 #: /views/oauth_consumers/index.ctp:13
 msgid "Your applications"
-msgstr ""
+msgstr "あなたのアプリケーション"
 
 #: /views/oauth_consumers/index.ctp:19
 msgid "You did not register any applications yet."
-msgstr ""
+msgstr "あなたはまだすべてのアプリケーションを登録していません。"
 
 #: /views/oauth_consumers/index.ctp:25
 msgid "Application name"
@@ -1926,11 +1939,11 @@ msgstr "コールバックURL"
 
 #: /views/oauth_consumers/index.ctp:27
 msgid "Consumer key"
-msgstr ""
+msgstr "消費者キー"
 
 #: /views/oauth_consumers/index.ctp:28
 msgid "Consumer secret"
-msgstr ""
+msgstr "消費者の秘密"
 
 #: /views/omb/authorize_form.ctp:2
 msgid "Allow access?"
@@ -1949,6 +1962,8 @@ msgid ""
 "Below is a list of sites you have visited. You will not be prompted to approve identifying yourself to \n"
 "    sites you have checked."
 msgstr ""
+"以下に、あなたが見たサイトのリストがあります。\n"
+"あなたはチェックしているサイトに識別を承認するよう求められることはありません。"
 
 #: /views/openid_sites/index.ctp:8
 msgid "Site"
@@ -1968,31 +1983,31 @@ msgstr "性別"
 
 #: /views/openid_sites/no_openid_sites.ctp:2
 msgid "No OpenID sites found."
-msgstr ""
+msgstr "OpenIDではないサイトが見つかりました。"
 
 #: /views/openid_sites/no_openid_sites.ctp:10
 msgid "You probably never used your <strong>NoseRub-ID</strong> to <strong>log in at any OpenID site</strong>. Did you know, that your NoseRub-ID <strong>is</strong> an OpenID?"
-msgstr ""
+msgstr "おそらく、<strong>任意のOpenIDのサイトにログイン</strong>に<strong>NoseRub-ID</strong>を使用することはありません。あなたが知っている、あなたのNoseRub-ID<strong>は</strong>OpenIDのものですか?"
 
 #: /views/openid_sites/no_openid_sites.ctp:14
 msgid "You can use your OpenID on any one of a growing number of sites (nearly ten-thousand) which support OpenID.<br />If one of your favorite sites doesn’t support OpenID yet, ask them when they will!"
-msgstr ""
+msgstr "OpenIDをサポートするサイトの数は増えており（約1万）あなたはそこでOpenIDを使用できます"
 
 #: /views/openid_sites/no_openid_sites.ctp:18
 msgid "% gives you an overview of sites where you can use your OpenID to log in today."
-msgstr ""
+msgstr "% は、今日のログインでOpenIDを使用できるサイトの一覧を表示します。"
 
 #: /views/pages/security_check.ctp:2
 msgid "The last action you performed, caused a security issue. Mostly, this happened because of a timed out session. But this can also happen, when you browse the application with different browsers / windows at the same time. This is not forbidden, but some actions that perform changes, might then not work all the time."
-msgstr ""
+msgstr "あなたが行った最後のアクションに、セキュリティ上の問題が発生しました。ほとんどの場合、これはタイムアウトセッションのために起こったものです。しかし、あなたが同時に異なったブラウザ/ウィンドウによってアプリケーションをブラウズするとにも起こることがあります。これは禁じられてされていませんが、変更を実行するいくつかのアクションは、すべての時間に働かないかもしれません。"
 
 #: /views/pages/security_check.ctp:5
 msgid "Please try the desired action again. If you think you got this message by error, please contact us."
-msgstr ""
+msgstr "もう一度希望の動作を試みてください。もしエラーによってでこのメッセージを得たと思った場合には、私たちに連絡をしてください。"
 
 #: /views/registration/register.ctp:2
 msgid "If you have an %s OpenID, please follow this %s to register a new NoseRub account."
-msgstr ""
+msgstr "%s OpenIDがあれば、この %s に従って新しいNoseRubアカウントを登録してください。"
 
 #: /views/registration/register.ctp:2
 msgid "link"
@@ -2001,27 +2016,27 @@ msgstr "リンク"
 #: /views/registration/register.ctp:10
 #: /views/registration/register_with_openid_step_2.ctp:6
 msgid "You need to enter something here. Valid characters: letters ,numbers, underscores, dashes and dots"
-msgstr ""
+msgstr "あなたはここで何かを入力する必要があります。有効な文字:文字、数字、ダッシュ、ドット、アンダースコア"
 
 #: /views/registration/register.ctp:11
 #: /views/registration/register_with_openid_step_2.ctp:7
 msgid "Valid characters: letters, numbers, underscores, dashes and dots only"
-msgstr ""
+msgstr "有効な文字:文字、数字、ダッシュ、ドット、アンダースコアのみです"
 
 #: /views/registration/register.ctp:12
 #: /views/registration/register_with_openid_step_2.ctp:8
 msgid "The username is already taken"
-msgstr ""
+msgstr "ユーザー名は既に使用されています"
 
 #: /views/registration/register.ctp:15
 #: /views/registration/register_with_openid_step_2.ctp:11
 msgid "E-Mail (validation link will be sent there)"
-msgstr ""
+msgstr "電子メール（検証のリンクが送信されます）"
 
 #: /views/registration/register.ctp:16
 #: /views/registration/register_with_openid_step_2.ctp:12
 msgid "Please enter a valid E-Mail address"
-msgstr ""
+msgstr "有効な電子メールアドレスを入力してください"
 
 #: /views/registration/register.ctp:20
 msgid "Password"
@@ -2034,15 +2049,15 @@ msgstr "パスワード（再入力）"
 #: /views/registration/register.ctp:32
 #: /views/registration/register_with_openid_step_2.ctp:16
 msgid "You can change the privacy settings everytime you like. Just go to the Settings, once you are logged in."
-msgstr ""
+msgstr "好きな時に、あなたはプライバシー設定を変えることができます。いったんログインした後、設定を行ってください。"
 
 #: /views/registration/register_thanks.ctp:2
 msgid "Now please check your inbox for the verification link. After that you're ready to log in."
-msgstr ""
+msgstr "確認用のリンクについては、今すぐ受信トレイを確認してください。その後、あなたのログイン準備は完了です。"
 
 #: /views/registration/verify.ctp:3
 msgid "Congratulations. You're now ready to %s to %s."
-msgstr ""
+msgstr "おめでとうございます。あなたは%sへの%sの準備ができました。"
 
 # /views/registration/verify.ctp:3;7
 #: /views/registration/verify.ctp:3
@@ -2051,47 +2066,47 @@ msgstr "ログイン"
 
 #: /views/registration/verify.ctp:7
 msgid "Sorry. The verification link did not work. Maybe you're already done and just need to proceed to %s?"
-msgstr ""
+msgstr "申し訳ありません。確認用のリンクが機能しませんでした。たぶんあなたは既に完了し、ただ%sを続行する必要がありますか?"
 
 #: /views/searches/index.ctp:6
 msgid "with all the following words"
-msgstr ""
+msgstr "以下のすべての単語で検索する"
 
 #: /views/searches/index.ctp:9
 msgid "Go"
-msgstr ""
+msgstr "Go"
 
 #: /views/searches/index.ctp:17
 msgid "Search results for <strong>%s</strong>"
-msgstr ""
+msgstr "<strong>%s</strong>の検索結果"
 
 #: /views/syndications/add.ctp:3
 msgid "Select a name. This is just visible for you and should help you to organize your feeds."
-msgstr ""
+msgstr "名前を選択してください。これはあなたのため表示され、あなたのフィードを整理するのに役立ちます。"
 
 #: /views/syndications/add.ctp:7
 msgid "Choose, which of your activities should be included."
-msgstr ""
+msgstr "あなたの活動が含まれるものを選択してください。"
 
 #: /views/syndications/add.ctp:21
 msgid "Do you want to include your networks (contacts/friends) activities too?"
-msgstr ""
+msgstr "あなたが活動をしているネットワーク（連絡先/お友達）を含めるようにしますか？"
 
 #: /views/syndications/add.ctp:24
 msgid "Specify network activities"
-msgstr ""
+msgstr "指定ネットワーク活動"
 
 #: /views/syndications/add.ctp:29
 msgid "Which of your networks (contacts/friends) activities should be included?"
-msgstr ""
+msgstr "あなたのどのネットワーク（連絡先/お友達）の活動に含まれるか？"
 
 #: /views/syndications/add.ctp:57
 msgid "All feeds of %s"
-msgstr ""
+msgstr "全ての%sのフィード"
 
 #: /views/syndications/add.ctp:59
 msgid "Specify the feeds"
-msgstr ""
+msgstr "指定フィード"
 
 #: /views/syndications/add.ctp:74
 msgid "Create Feed"
@@ -2099,7 +2114,7 @@ msgstr "フィードを作成"
 
 #: /views/syndications/index.ctp:11
 msgid "You can create Feeds from your own social activities or those of friends in your network. This feeds then can be used by your RSS-Reader or you can integrate it on your website to show everyone, what you did in the last couple of hours and days."
-msgstr ""
+msgstr "あなた自身の社会活動や、友人たちのネットワークからフィードを作成できます。このフィードは、あなたのウェブサイトで公開した全てのうちの最新の日時のいくつかを、あなたのRSS読者が利用する事ができるようにするものです。"
 
 #: /views/syndications/index.ctp:16
 msgid "Your feeds"
@@ -2108,29 +2123,46 @@ msgstr "あなたのフィード"
 # /views/syndications/index.ctp:18;50
 #: /views/syndications/index.ctp:18
 msgid "Create a new feed"
-msgstr "新しくフィードを作成"
+msgstr "新しいフィードを作成"
 
 #: /views/syndications/index.ctp:22
 msgid "You did not create any feeds yet."
-msgstr ""
+msgstr "あなたはまだフィードを作成していません。"
 
 #: /views/syndications/index.ctp:56
 msgid "Generic feed"
-msgstr ""
+msgstr "一般的なフィード"
 
 #: /views/syndications/index.ctp:61
 msgid "If you want a feed with all your updates being available at<br />%s<br />please enable the following option."
-msgstr ""
+msgstr "あなたのすべてのアップデートが<br />%s<br />で利用可能のフィードが欲しいなら、以下のオプションを有効にしてください。"
 
 #: /views/syndications/index.ctp:63
 msgid "Enable generic feed"
-msgstr ""
+msgstr "有効にする一般的なフィード"
 
 #: /views/syndications/shell_upload.ctp:1
 msgid "Uploaded feeds"
-msgstr ""
+msgstr "アップロードしたフィード"
 
 #: /webroot/test.php:99
 msgid "Debug setting does not allow access to this url."
-msgstr ""
+msgstr "デバッグ設定はこのURLへのアクセスを許可していません。"
+
+#: -----------
+#: /views/elements/identities/privacy_settings.ctp:24
+msgid "Notify me when the following happens"
+msgstr "以下の事がされた時には通知する"
+
+#: /views/elements/identities/privacy_settings.ctp:26
+msgid "Someone adds me as contact"
+msgstr "誰かがあなたを仲間に加えた時"
+
+#: /views/elements/identities/privacy_settings.ctp:29
+msgid "Someone makes a comment on one of my entries"
+msgstr "誰かがあなたのエントリにコメントした時"
+
+#: /views/elements/identities/privacy_settings.ctp:32
+msgid "Someone marks one of my entries as favorite"
+msgstr "誰かがあなたのエントリをお気に入りに加えた時"
 
